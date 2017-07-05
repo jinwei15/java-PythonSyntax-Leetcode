@@ -1,0 +1,21 @@
+import javax.swing.JOptionPane;  
+public class Week2_Q6 {  
+    public static void main(String[] args) {    
+     int n1;    
+     int n2;       
+  int sum;        
+ n1 = dataEntry();     
+    n2 = dataEntry();      
+   sum = n1 + n2;       
+  System.out.println("The sum of " + n1 + " and " + n2 + " is " + sum);  }    
+     private static int dataEntry() {    
+           int val = 0;    
+     try {             
+  val = Integer.parseInt(JOptionPane.showInputDialog("Please enter a number."));   
+      } catch (final NumberFormatException e) {        
+       System.err.println("ERROR: Invalid input. Please type in a numerical value.");      
+   }      
+   return val;   
+  }  
+} 
+

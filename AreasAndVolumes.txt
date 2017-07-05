@@ -1,0 +1,34 @@
+public class AreasAndVolumes  {  
+   public double volumnOfSphere (double radius)   
+  {      
+ return (4/3) * Math.pow(3.14159 * radius, 3);  
+   }        
+  public double volumeOfCylinder (double radius, double height)  
+   {      
+ return Math.pow(radius * 3.14159, 2) * height;   
+  }        
+  public double areaOfCircle (double radius)  
+   {     
+  return Math.pow(radius * 3.14159, 2);    
+ }  
+ } 
+
+
+
+
+public class AreasAndVolumes  
+{    
+ private static final double PI = 3.14159;     
+   public double volumnOfSphere (double radius)   
+  {      
+ return (4/3) * Math.pow(PI * radius, 3);   
+  }        
+  public double volumeOfCylinder (double radius, double height)  
+   {      
+ return Math.pow(radius * PI, 2) * height;   
+  }      
+    public double areaOfCircle (double radius)    
+ {    
+   return Math.pow(radius * PI, 2);    
+ }   
+} 

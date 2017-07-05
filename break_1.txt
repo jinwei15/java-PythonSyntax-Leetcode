@@ -1,0 +1,18 @@
+import java.util.*;
+public class break_1{
+    public static void main(String[]args){
+       Scanner in=new Scanner(System.in);
+       for(;;){
+            System.out.println("continue?Y/N");
+            String flag=in.next();
+            if(flag.equals("y")){
+                System.out.println("so continue");
+            }else{
+                  break;
+            }      
+       }
+
+   }
+
+
+}

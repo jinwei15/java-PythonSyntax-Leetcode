@@ -1,0 +1,32 @@
+
+import java.util.Scanner;
+
+public class DataInputAverage {
+
+    public static void main(String[] args) {
+
+        Scanner Keyboard = new Scanner(System.in);
+
+        int n1;
+        int n2;
+        int n3;
+        int sum;
+        int average;
+        //input the numbers
+        System.out.print("Enter the first integer:");
+        n1 = Keyboard.nextInt();
+        System.out.print("Enter the second integer:");
+        n2 = Keyboard.nextInt();
+        System.out.print("Enter the third integer:");
+        n3 = Keyboard.nextInt();
+
+        //calculate the sum and average
+        sum = n1 + n2 + n3;
+        average = sum / 3;
+
+        //display the average
+        System.out.println("The average is " + average);
+
+    }
+
+}

@@ -1,0 +1,39 @@
+//当子类中出现和父类一样的函数时 子类对象调用该函数 子类对象调用该函数，
+//如同服了函数被覆盖了  函数的重写 覆盖；
+//注意：子类覆盖父类时必须保证子类方法权限大于等于父类；
+
+
+//访问权限修饰符 public >default> private
+//成员前面没有家任何修饰符 默认权限为defualt
+//静态的只能覆盖静态的；
+
+
+//重载：看同名方法的参数
+//重写 覆盖：子父类方法要一模一样
+class  Animal{
+   String Type;
+   void run(){
+     System.out.println("running");
+   }
+}
+
+class Cat extends Animal{
+
+}
+
+class Dog extends Animal{
+   
+   void  run(){
+         Type="yellow";
+          System.out.println("wow wow running");
+    }
+}
+
+public class B {
+  public static void main(String [] args){
+     Cat c=new Cat();
+     c.run();
+     Dog d=new Dog();
+     d.run();
+  }
+}

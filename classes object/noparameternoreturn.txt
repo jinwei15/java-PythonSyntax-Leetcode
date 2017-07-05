@@ -1,0 +1,36 @@
+/*
+Scanner
+random
+。。。（类）
+import java.util.*;// 类
+public class Person_2{
+    public static void main{....
+       Scanner in =new Scanner(System.in);//创建对象
+
+
+    }
+
+}
+
+
+无参数无返回 public void get（）{}
+无参数有返回 public int get（）{}
+有参数无返回 public void get（String A）{}
+有参数有返回 public String get（int A）{}
+
+*/
+
+
+public class Person_2{
+    public static void main(String[]args){
+       Person_1 MyPerson=new Person_1();//创建对象new 方法 MyPerson对象名
+       MyPerson.name="mingming"     //使用对象属性，对象名。成员变量
+       System.out.println(MyPerson.name);
+        MyPerson.eat();                  //使用对象的方法 对象名。方法名
+    
+    }
+
+}
+
+
+

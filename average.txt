@@ -1,0 +1,20 @@
+import java.util.*;
+public class average{
+   public static void main(String[]args){
+     Scanner in=new Scanner(System.in);
+     System.out.println("enter the number of person");
+     int person=in.nextInt();
+     int i=1;
+     int sum=0;
+     while(i<=person){
+          System.out.println("enter the score of"+i);
+          int a=in.nextInt();
+          sum=sum+a;
+          i++;
+     }
+     int avg=sum/person;
+     System.out.println("average of "+person+"person is "+avg);
+     
+  
+   }
+}

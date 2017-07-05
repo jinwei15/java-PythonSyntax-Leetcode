@@ -1,0 +1,33 @@
+public class Elevator {  
+    private int current_floor;   
+  private int max_floor;    
+ private int min_floor;    
+ private boolean doorIsOpen;   
+  private float max_weight;  // kilograms    
+ private float current_weight;  
+    // constructor method   
+ public Elevator(int min, int max) {      
+   max_floor = max;       
+  min_floor = min;      
+   current_floor = 0;     
+    doorIsOpen = false;     
+    max_weight = 1000.0F;     
+    current_weight = 0.0F;     }  
+public void move_floor(int movement) {   
+      current_floor = current_floor + movement;  
+       if (current_floor > max_floor) {    
+         current_floor = max_floor;       
+  }         if (current_floor < min_floor) {  
+           current_floor = min_floor;     
+    }   
+  }  
+    public void display_floor() {   
+
+      System.out.println("current floor is " + current_floor);  
+   }  
+    public void open_door() {     
+    doorIsOpen = true;    
+ }     public void close_door() {     
+    doorIsOpen = false;   
+  } 
+} 

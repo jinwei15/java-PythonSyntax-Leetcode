@@ -1,0 +1,15 @@
+public static int inputInteger() {     
+    int i = 0;      
+   boolean validInput = false; 
+        while (!validInput) {        
+     System.out.println("Enter an integer: ");    
+         String s = kb.nextLine();     
+        try {               
+  i = Integer.parseInt(s);      
+           validInput = true;     
+        } catch (Exception e) {   
+              System.out.println("Not a valid integer");        
+     };   
+      }     
+    return i; 
+} 

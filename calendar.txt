@@ -1,0 +1,66 @@
+/*  求题目1900 1.1 -- 2015 days between
+
+import java.util.*;
+public class calendar{
+  public static void main (String[]args){
+     int sum=0;
+     for(int year=1900;year<=2015;year++){
+        if(year%4==0&&year%100!=0||year%400==0){
+            sum+=366;
+
+        }else{
+            sum+=365;
+        }
+     }
+  
+      System.out.println("the sum is"+sum );
+
+  }
+
+}
+
+
+
+
+求题目1990 1.1 --2012.9.1为星期几 how many days between*/
+
+
+import java.util.*;
+public class calendar{
+  public static void main (String[]args){
+
+ int sum=0;
+     for(int year=1900;year<=2012;year++){
+        if(year%4==0&&year%100!=0||year%400==0){
+            sum+=366;
+
+        }else{
+            sum+=365;
+        }
+     }
+     for (int month=1;month<=8;month++){
+         if (month==2){
+            if(2016%4==0&&2016%100!=0||2016%400==0){
+
+                 sum+=29;
+            }else{
+                   sum+=28;
+            }
+
+         }else{
+             if(month==4||month==6||month==9||month==11){
+                 sum+=30;
+             }else{
+                 sum+=31;
+             }
+         }
+     }
+     sum+=1;
+     System.out.println(the week is "sum%7");
+ }
+
+}
+
+
+
+

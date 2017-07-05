@@ -1,0 +1,38 @@
+
+package test;
+
+class Student{
+   private String name;
+   private int age;
+   private char gender;
+   
+   public void setGender(char gender){
+       if(gender=='f'||gender=='m'){
+        this.gender=gender;
+       }else{
+          System.out.println("please enter the right gender");
+       }
+       
+       
+   
+    
+   }
+   public char getGender(){
+     return this.gender;
+   }
+
+}
+
+
+
+public class Test {
+
+  
+    public static void main(String[] args) {
+        Student one=new Student();
+       one.setGender('c'); //one.gender='f';
+        System.out.println(one.getGender());
+        
+    }
+    
+}

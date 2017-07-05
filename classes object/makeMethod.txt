@@ -1,0 +1,57 @@
+package makemethod;
+
+class Cat {
+
+    private String name;
+    private int age;
+
+
+
+
+    Cat(){
+    
+
+    }
+
+
+
+
+
+    public Cat(String name, int age) {
+        this.name = name;
+        this.age = age;
+        System.out.println("name" + this.name + "age" + this.age);
+    }
+
+
+
+
+
+    public void get() {
+        System.out.println(this.name);
+    }
+}
+
+
+
+
+
+public class MakeMethod {
+
+    public static void main(String[] args) {
+        Cat one = new Cat();
+        one.get();
+
+        Cat two = new Cat("小花", 12);
+        two.get();
+
+    }
+
+}
+
+
+
+构造方法：
+使用new + 构造方法 创建新的对象
+构造函数是定义在java 类中的一个用来初始化对象的函数
+构造函数与类同名且没有返回值 连void都不用写

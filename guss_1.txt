@@ -1,0 +1,50 @@
+import java.util.Scanner;
+public class guss_1{
+     public static void main(String[]args){
+          Scanner in=new Scanner(System.in);
+          System.out.println("------a finger guess game-----");
+          System.out.println("put your fingers:1 for scissors.2 for rock. 3 for paper");
+          int person=in.nextInt();
+          
+          int computer=(int)(Math.random()*3+1);
+          String Marks="fist";
+          String Marks2="fist";
+          switch(person){
+              case 1:
+              Marks="scissors";
+              break;
+              case 2:
+              Marks="rock";
+              break;
+              case 3:
+              Marks="paper";
+              break;
+              
+          }
+          switch(computer){
+              case 1:
+              Marks2="scissors";
+              break;
+              case 2:
+              Marks2="rock";
+              break;
+              case 3:
+              Marks2="paper";
+              break;
+              
+          }
+          if (person==computer){
+                   System.out.println("draw! your is"+Marks+"computer is"+Marks2+"so is draw");
+          }else if(person==1&&computer==2||person==2&&computer==3||person==3&&computer==1){
+                       System.out.println("you lose! your is"+Marks+"computer is"+Marks2+"-_-you lose");
+
+          }else{
+                      System.out.println("you win! your is"+Marks+"computer is"+Marks2+"^_^you win");
+          }
+        
+
+    }
+
+
+
+}

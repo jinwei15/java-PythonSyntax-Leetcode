@@ -1,0 +1,38 @@
+import java.util.*;
+public class guessnumber{
+   public static void main(String[]args){
+     Scanner in=new Scanner(System.in);
+     Random MyRandom=new Random();
+     int A=MyRandom.nextInt(101);
+     int number;
+     int i=0;
+    
+     do{
+
+          System.out.println("please guess");
+          number=in.nextInt();
+          if(number<A){
+
+               System.out.println("try higher");
+               i++;
+          }else if(number>A){
+               System.out.println("try lower");
+               i++;
+          }
+           
+
+
+
+
+
+
+     }while(number!=A);
+
+     
+      System.out.println("u got it in"+i+"times");
+
+
+   }
+
+
+}

@@ -1,0 +1,17 @@
+ Scanner kb = new Scanner(System.in);       
+  System.out.print("Enter the first integer:");       
+  int n1 = kb.nextInt();       
+  System.out.print("Enter the second integer:");     
+    int n2 = kb.nextInt();        
+ System.out.print("Enter the third integer:");      
+   int n3 = kb.nextInt();  
+        // does not allow for numbers being equal     
+    if (n1 > n2  &&  n1 > n3) {            
+   System.out.println("The first number is the largest");     
+    } else {            
+   if (n2 > n3) {                  
+ System.out.println("The second number is the largest");             
+  } else {                 
+  System.out.println("The third number is the largest");           
+    }       
+  } 

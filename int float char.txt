@@ -1,0 +1,165 @@
+000602000602abcd代码写完要有分号 //才是注释 /*
+                                            */ 注释               2/4     2divided by 4
+
+/t
+
+public公共的
+class 类
+static静态的
+main主要的
+string字符串
+args参数
+system系统的
+out输出设备
+print打印
+
+
+
+
+
+
+Natural Numbers Integers Rationals Real Numbers Prime Numbers
+
+
+
+
+
+
+
+
+
+
+
+
+Example of int 
+
+
+public class Lecture02_example01 {  
+    public static void main(String[] args) {  
+        int horse = 26; 
+        int dog = 0b11010; 
+        System.out.println("horse = " + horse);
+         System.out.println("dog = " + dog); 
+      }
+ } 
+
+
+
+
+
+
+Example of long 
+
+
+public class Lecture02_example03 {  
+    public static void main(String[] args) {  
+        long bigValue = 9000000000000000000L; 
+        System.out.println("bigValue = " + bigValue); 
+      }     
+ } 
+
+
+
+
+ int lightspeed; 
+        long days;
+         long seconds;
+         long distance; // approximate speed of light in miles per second
+         lightspeed = 186000;
+         days = 1000; // specify number of days here 
+        seconds = days * 24 * 60 * 60; // convert to seconds 
+        distance = lightspeed * seconds; // compute distance 
+        System.out.print("In " + days);
+         System.out.print(" days light will travel about "); 
+        System.out.println(distance + " miles.");
+
+
+Floating point literals 
+
+
+double d1 = 123.4;  
+// same value as d1, but in scientific notation  
+double d2 = 1.234e2; 
+ float f1 = 123.4f; 
+float f2 = 1.234E2F; 
+
+
+
+Example with double operators 
+
+
+
+double a = 9;        
+ double b = 7;       
+  double w, x, y, z;    
+     w = a + b;      
+   x = a - b;       
+  y = a * b;     
+    z = a / b;      
+   System.out.println("w = " + w);    
+     System.out.println("x = " + x);    
+     System.out.println("y = " + y);      
+   System.out.println("z = " + z); 
+
+
+Example of float 
+
+
+
+float lightspeed;      
+   float days;        
+ float seconds;         
+float distance; // approximate speed of light in miles per second      
+   lightspeed = 186000.0F;       
+  days = 1000F; // specify number of days here    
+     seconds = days * 24.0F * 60.0F * 60.0F; // convert to seconds     
+    distance = lightspeed * seconds; // compute distance       
+  System.out.print("In " + days);       
+  System.out.print(" days light will travel about ");       
+  System.out.println(distance + " miles."); 
+
+
+Using double gave a more accurate result
+
+
+
+
+Example of char 
+
+
+public class Lecture02_example06 {  
+    public static void main(String[] args) {  
+        char ch1 = 'a';       
+  char ch2 = '\u0061';      
+   System.out.println("ch1 = " + ch1);      
+   System.out.println("ch2 = " + ch2);      
+ }     
+ } 
+
+
+
+
+Example of char
+
+public class Lecture02_example07 {  
+    public static void main(String[] args) {  
+        char ch1 = 'a';        
+ char ch2 = ch1++;        
+ System.out.println("ch1 = " + ch1);      
+   System.out.println("ch2 = " + ch2);      
+ }     
+ } 
+
+
+Example 1 of boolean 
+
+public class Lecture02_example08 {  
+    public static void main(String[] args) {  
+        int num1 = 34;       
+        int num2 = 56;       
+  boolean result;        
+ result = num1 < num2;      
+   System.out.println("result = " + result);     
+  }     
+ }
+

@@ -1,0 +1,34 @@
+public class bb{
+    public static void main(String[]args){
+          int A=2;
+          int B=2;
+          boolean flag;
+          flag=A==B;
+          System.out.println(flag);
+
+     }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*商品真假
+条件是否成立*/

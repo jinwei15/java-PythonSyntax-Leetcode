@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class loopfor{
+  public static void main(String[]args){
+    System.out.println("please enter a intger");
+    Scanner in=new Scanner(System.in);
+    int number=in.nextInt();
+    for (int i=0,j=number;i<=j;i++,j--)// j 后不用加int
+       System.out.println(i+"+"+j+"="+(i+j));
+     
+    }
+
+}

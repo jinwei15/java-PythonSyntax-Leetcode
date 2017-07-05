@@ -1,0 +1,45 @@
+
+public class Person {
+
+    String name;     
+    String gender;
+    static int age;     //成员变量
+    String baba;
+
+    public void eat() {
+        System.out.println("eat");
+
+    }
+    
+    public void sleep(String A){
+        System.out.println("am sleep at "+A);
+    
+    }
+    
+    
+    public int getAge(int a){
+        
+        return a;
+    
+    }
+             public static void main(String[]args){
+         Person My = new Person();
+         Person per=new Person();
+         My.eat();
+         per.sleep("bed");
+         // int age=per.getAge(18);
+         //System.out.println(age);
+         System.out.println();
+         My.name="zhsng";
+         System.out.println(My.name);
+         
+         
+         System.out.println(age);
+          System.out.println(My.baba);
+         
+
+}
+  
+
+}
+ 

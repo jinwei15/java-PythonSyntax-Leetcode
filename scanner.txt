@@ -1,0 +1,39 @@
+（1）放在类声明之前，引入扫描仪
+import java.util.Scanner;
+
+(2)声明一个新的扫描仪（乡内存申请一个空间）
+Scanner in;
+
+(3)赋值
+kb=new Scanner(System.in);
+System.out.println("请输入你的三维：");
+
+（4）使用扫描仪
+
+整数类型输入：kb.nextInt()
+双精度小数kb.nextDouble()
+字符串kb.next()
+
+没有kb.nextChar() 
+
+
+
+
+
+import java.util.Scanner;
+piblic class scan and print {
+    public static void main(String[]args){
+        Scanner kb=new Scanner(System.in);
+        System.out.println("please enter your name in Chinese");
+        String name=kb.next();
+        System out.println("please enter your age");
+        int age=kb.nextInt();
+        System.out.println("姓名："+name);
+        System.out.println("年龄："+age);
+
+
+    }
+
+}
+
+

@@ -1,0 +1,11 @@
+public class ShowSquareRoot {  
+    public static void main(String[] args) {  
+        double squareRoot; 
+        for (int i = 1; i <= 10; i++) { 
+            squareRoot = Math.sqrt(i); 
+            System.out.print(i); 
+            System.out.print("  "); 
+            System.out.println(squareRoot); 
+        }  
+    }  
+} 

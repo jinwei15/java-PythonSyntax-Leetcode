@@ -1,0 +1,34 @@
+//子类不能继承父类的private 的变量
+//最下层的子类拥有整个继承体系的成员变量
+//java 不支持一个子类 继承多个类；
+//
+
+class mammal{
+String buru="bu ru";
+}
+
+class maoke extends mammal{
+ private String color;
+ void eat(){
+ System.out.println("eat !!");
+ }
+}
+
+class Cat extends maoke{
+ void catchMouse(){
+    System.out.println("catch mouse");
+ }
+}
+
+class leopard extends maoke{
+  void run(){
+    System.out.println("run");
+  }
+}
+
+class B{
+   public static void main(String[]args){
+   Cat cat=new Cat();
+   System.out.println(cat.buru);
+   }
+}

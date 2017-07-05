@@ -1,0 +1,11 @@
+public class OutputExample {  
+    public static void main(String[] args) {  
+        int a = 11; 
+        int b = 24; 
+        int c = 37; 
+        System.out.print("a = " + a); 
+        System.out.print("b = " + b); 
+        System.out.print("c = " + c); 
+        System.out.println();  
+    }  
+} 

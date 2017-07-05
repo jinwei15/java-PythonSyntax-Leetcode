@@ -1,0 +1,96 @@
+import java.util.*;
+public class switch_1{
+        public static void main(String[]args){
+           Scanner in=new Scanner(System.in);
+           System.out.println("please enter your rank");
+           int mingci=in.nextInt();
+           /*if(mingci==1){
+                 System.out.println("you are the best");
+           }
+           if(mingci==2){
+                 System.out.println("you are the second");
+           }
+           if(mingci==3){
+                System.out.println("you are the third");
+           }
+           if(mingci>=4){
+                      System.out.println("fuck u!");
+           } 只能字符 int
+           */  
+           switch(mingci){
+                 case 1:
+                 System.out.println("you are the best");
+                 break;
+
+                 case 2:
+                 System.out.println("second");
+
+                 break;
+                 
+
+
+
+                 case 3:
+                 System.out.println("third");
+                 break;
+                 default:System.out.println("fuck off");
+           }
+
+   }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public class switch_1{
+        public static void main(String[]args){
+        
+           char mingci='m'
+           /*if(mingci==1){
+                 System.out.println("you are the best");
+           }
+           if(mingci==2){
+                 System.out.println("you are the second");
+           }
+           if(mingci==3){
+                System.out.println("you are the third");
+           }
+           if(mingci>=4){
+                      System.out.println("fuck u!");
+           } 只能字符 int
+           */  
+           switch(mingci){
+                 case m:
+                 System.out.println("you are the best");
+                 break;
+
+                 case 2:
+                 System.out.println("second");
+
+                 break;
+                 
+
+
+
+                 case 3:
+                 System.out.println("third");
+                 break;
+                 default:System.out.println("fuck off");
+           }
+
+   }
+
+}

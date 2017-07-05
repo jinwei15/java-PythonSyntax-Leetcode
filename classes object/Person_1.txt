@@ -1,0 +1,30 @@
+public class Person_1{
+    String name;
+    String Gender;   //属性
+    int age;
+
+    public void eat(){     //行为 无参数无返回 eat 是方法
+       System.out.println("hava  meal");
+    }
+
+    
+
+
+
+     public void sleep(String A ){   //有参数无返回 void 无返回的意思
+  
+              System.out.println("am here"+A+"sleeping");
+
+    }
+
+     
+   
+
+
+
+    public int getAge(int a){                 // get set 套路， 有参有返回
+        return a;
+
+   } 
+
+}     

@@ -1,0 +1,12 @@
+public class Hello51zxw {  
+  public static void main(String[] args) { 
+// ’‚æÕ «…µ±∆£°\t\n
+    int number=23;
+    System.out.print(number);
+
+    System.out.print("…µ\t±∆\n");
+    System.out.print(number);
+  
+    
+  }  
+} 

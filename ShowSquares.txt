@@ -1,0 +1,33 @@
+
+public class ShowSquares {
+
+    public static void main(String[] args) {
+
+        int square;
+        for (int i = 1; i <= 10; i++) {
+            square = i * i;
+            System.out.print(i);
+            System.out.print("  ");
+            System.out.println(square);
+        }
+
+    }
+
+}
+
+
+
+public class ShowSquares {  
+    public static void main(String[] args) {  
+        int square;       
+        int i = 1;      
+        while (i <= 10) {        
+          square = i * i;        
+           System.out.print(i);     
+           System.out.print("  ");       
+           System.out.println(square);      
+       i++;     
+    }   
+  }  
+} 
+

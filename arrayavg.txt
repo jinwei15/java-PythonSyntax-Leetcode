@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class arrayavg{
+   public static void main(String[]args){
+      Scanner in=new Scanner(System.in);
+      int[] arr=new int[5];
+      int sum=0;
+      for (int i=0;i<5;i++){
+          System.out.println("please enter the "+(i+1));
+          arr[i]=in.nextInt();
+          sum+=arr[i];
+       
+      }
+      System.out.println("the average  score is"+(sum/5));
+   }
+
+}

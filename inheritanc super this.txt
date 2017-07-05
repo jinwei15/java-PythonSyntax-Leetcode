@@ -1,0 +1,24 @@
+//成员变量
+//函数
+//构造函数
+// this 代表当前对象 在本类中找 如果没找到 再到父类中找
+//super 用于访问当前对象的父类；super.变量直接从父类中招
+class Person{
+String name="zhangsan";
+
+}
+
+class Student extends Person{
+ // String name="lisi";
+  void show(){
+     System.out.println(this.name);
+     System.out.println(super.name);
+  }
+}
+
+public class B {
+  public static void main(String [] args){
+      Student stu=new Student();
+      stu.show();
+  }
+}

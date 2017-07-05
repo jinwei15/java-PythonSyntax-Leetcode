@@ -1,0 +1,8 @@
+public class UsingStrings {  
+    public static void main(String[] args) {  
+        String someText;             
+        someText = new String();         
+        someText = "Hello World"; 
+        System.out.println(someText);   
+   } 
+}    

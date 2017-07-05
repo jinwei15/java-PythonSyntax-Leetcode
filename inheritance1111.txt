@@ -1,0 +1,28 @@
+//继承 的概念：
+// 类与类之间的继承 --产生多态；
+
+// 父类 超类 基类
+class Person{
+     String name;
+    int age;
+}
+
+// person 子类
+class Student extends Person{
+ 
+    void study() {
+        System.out.println("xuexi");
+    }
+}
+
+class Teacher extends Person{
+
+    void teach() {
+         System.out.println("teaching");
+        
+    }
+}
+
+
+---------------------------------------------------
+

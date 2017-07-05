@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class continue_1{
+   public static void main(String[]args){
+     Scanner in =new Scanner(System.in);
+     while(true){    //this is an foeever loop!!
+
+           System.out.println("please enter your password");
+           int password=in.nextInt();
+           if(password!=12345){
+               continue;
+           }
+           break;
+           
+     }
+     System.out.println("password is true");
+   }
+
+}

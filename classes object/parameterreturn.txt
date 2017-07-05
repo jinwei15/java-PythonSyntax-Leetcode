@@ -1,0 +1,10 @@
+public class parameterreturn{
+  public static void main(String[]args){
+     Person_1 per=new Person_1();
+     int age=per.getAge(18);
+     System.out.println(age);
+
+
+  }
+
+}

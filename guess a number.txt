@@ -1,0 +1,66 @@
+Scanner keyboard = new Scanner(System.in); 
+int secretNumber = (int) (Math.random() * 100); 
+System.out.print("Enter the guess:");
+ int guess = keyboard.nextInt(); 
+int noTry = 1; 
+while (guess != secretNumber) {       
+    if (guess < secretNumber) {          
+       System.out.print("Try higher :");      
+    } else {          
+       System.out.print("Try lower :");    
+    }        
+    guess = keyboard.nextInt();     
+    noTry++; 
+} 
+System.out.println("You got it in " + noTry + "!"); 
+
+
+
+
+
+
+
+
+
+ Scanner keyboard = new Scanner(System.in);      
+   int secretNumber = (int) (Math.random() * 100);  
+        int noTry = 0;      
+   int guess = 0;   
+      System.out.print("Enter the guess:");    
+     do {       
+      guess = keyboard.nextInt();       
+      noTry++;         
+    if (guess != secretNumber) {         
+        if (guess < secretNumber) {       
+              System.out.print("Try higher :");   
+              } else {        
+             System.out.print("Try lower :");   
+              }           
+  }        
+ } while (guess != secretNumber);  
+        System.out.println("You got it in " + noTry + "!");  
+   } 
+
+
+
+
+
+
+
+
+Scanner keyboard = new Scanner(System.in);      
+   int secretNumber = (int) (Math.random() * 100);  
+        int noTry = 0;    
+     int guess = 0;    
+     System.out.print("Enter the guess:");     
+    do {          
+   guess = keyboard.nextInt();        
+     noTry++;         
+    if (guess > secretNumber) {     
+            System.out.println("Try lower:");        
+     } else if (guess < secretNumber) {        
+        System.out.println("Try higher:");      
+       }       
+   } while (guess != secretNumber);  
+        System.out.println("You got it in " + noTry + "!");   
+  } 

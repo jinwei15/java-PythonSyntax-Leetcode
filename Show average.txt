@@ -1,0 +1,72 @@
+public class Week2_Q6 {    
+ public static void main(String[] args) {     
+    int n1, n2, n3;       
+  int sum, average;       
+  n1 = dataEntry();       
+ n2 = dataEntry();        
+ n3 = dataEntry();        
+ sum = n1 + n2 + n3;       
+  average = sum / 3;      
+   System.out.println("The numbers are " + n1 + ", " + n2 + ",  " + n3);      
+   System.out.println("The sum is " + sum);      
+   System.out.println("The average is " + average);    
+     }
+ } 
+
+
+
+
+public class Week2_Q6 {   
+  public static void main(String[] args) {   
+      int n1, n2, n3;      
+   int sum, average, remainder;   
+      n1 = dataEntry();      
+   n2 = dataEntry();      
+   n3 = dataEntry();        
+ sum = n1 + n2 + n3;       
+  average = sum / 3;      
+   remainder = sum % 3;    
+     System.out.println("The numbers are " + n1 + ", " + n2 + ",  " + n3);    
+     System.out.println("The sum is " + sum);     
+    System.out.println("The average is " + average + "  remainder " + remainder);  
+  } 
+}
+
+
+
+
+public class Week2_Q6 {    
+ public static void main(String[] args) {   
+      int n1, n2, n3;     
+    int sum;        
+ double average;     
+    n1 = dataEntry();  
+       n2 = dataEntry();     
+    n3 = dataEntry();      
+   sum = n1 + n2 + n3;    
+     average = sum / 3;     
+    System.out.println("The numbers are " + n1 + ", " + n2 + ",  " + n3);   
+      System.out.println("The sum is " + sum);     
+    System.out.println("The average is " + average);  
+  } 
+} 
+
+
+
+
+public class Week2_Q6 {   
+  public static void main(String[] args) {    
+     int n1, n2, n3;      
+   double sum, average;      
+   n1 = dataEntry();      
+   n2 = dataEntry();      
+   n3 = dataEntry();      
+   sum = n1 + n2 + n3;     
+    average = sum / 3.0;   
+      System.out.println("The numbers are " + n1 + ", " + n2 + ",  " + n3);   
+      System.out.println("The sum is " + sum);    
+     System.out.println("The average is " + average);  
+ } 
+} 
+CSE105 
+

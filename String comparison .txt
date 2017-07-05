@@ -1,0 +1,194 @@
+Scanner kb = new Scanner(System.in);     
+    System.out.print("Enter the first integer:");     
+    int n1 = kb.nextInt();      
+   System.out.print("Enter the second integer:");     
+    int n2 = kb.nextInt();      
+   System.out.print("Enter the third integer:");    
+     int n3 = kb.nextInt();  
+        // does not allow for numbers being equal       
+  if (n1 > n2) {    
+         if (n1 > n3) {        
+         System.out.println("The first number is the largest");   
+          } else {        
+         System.out.println("The third number is the largest");    
+         }     
+    } else {         
+    if (n2 > n3) {        
+         System.out.println("The second number is the largest"); 
+            } else {      
+           System.out.println("The third number is the largest");     
+        }     
+    } 
+
+
+
+
+
+
+
+
+  Scanner kb = new Scanner(System.in);    
+     System.out.print("Enter the first String:");  
+       String s1 = kb.nextLine();     
+    System.out.print("Enter the second String:");  
+       String s2 = kb.nextLine();   
+      System.out.print("Enter the third String:");   
+      String s3 = kb.nextLine();  
+        if (s1.compareTo(s2) > 0) {    
+         if (s1.compareTo(s3) > 0) {     
+            System.out.println("The first String is the largest"); 
+            } else {          
+       System.out.println("The third String is the largest");      }      
+   } else {   
+          if (s2.compareTo(s3) > 0) {     
+            System.out.println("The second String is the largest");  
+           } else {    
+             System.out.println("The third String is the largest");   
+          }    
+     }
+
+
+
+
+
+
+
+
+ if (s1.compareTo(s2) < 0) {     
+        if (s1.compareTo(s3) < 0) {   
+              System.out.print(s1 + " "); 
+                if (s2.compareTo(s3) < 0) { 
+                      System.out.print(s2 + " " + s3); 
+                } else {            
+           System.out.print(s3 + " " + s2);      }    
+         } else {       
+          System.out.print(s3 + " ");     
+            if (s2.compareTo(s1) < 0) {  
+                     System.out.print(s2 + " " + s1);    
+             } else {                 
+      System.out.print(s1 + " " + s2);  
+               }           
+  }        
+ } else {      
+       if (s2.compareTo(s3) < 0) {   
+              System.out.print(s2 + " ");  
+               if (s1.compareTo(s3) < 0) {  
+                     System.out.print(s1 + " " + s3);  
+               } else {                    
+   System.out.print(s3 + " " + s1);        
+         }           
+  } else {          
+       System.out.print(s3 + " "); 
+                if (s2.compareTo(s1) < 0) {  
+                     System.out.print(s2 + " " + s1);  
+               } else {                   
+    System.out.print(s1 + " " + s2);          
+       }          
+   }      
+   }    
+     System.out.println(" "); 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+if (s1.compareTo(s2) < 0) {    
+         if (s1.compareTo(s3) < 0) { 
+                System.out.print(s1 + " ");      
+                twoStrings(s2,s3);       
+      } else {             
+                System.out.print(s3 + " ");       
+                twoStrings(s1,s2);       
+      }      
+   } else {      
+       if (s2.compareTo(s3) < 0) {           
+      System.out.print(s2 + " ");        
+         twoStrings(s1,s3);         
+    } else {          
+       System.out.print(s3 + " ");          
+       twoStrings(s1,s2);      
+       }      
+   }        
+ System.out.println(" ");       
+  public static void twoStrings(String x, String y) {  
+       if (x.compareTo(y) < 0) {      
+       System.out.print(x + " " + y);     
+    } else {         
+    System.out.print(y + " " + x);     
+    }    
+ } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (s1.compareTo(s2) < 0) {        
+     if (s1.compareTo(s3) < 0) {    
+             System.out.print(s1 + " " + twoStrings(s2, s3)); 
+            } else {      
+           System.out.print(s3 + " " + twoStrings(s1, s2));    
+         }         } else {    
+         if (s2.compareTo(s3) < 0) {        
+         System.out.print(s2 + " " + twoStrings(s1, s3));    
+         } else {        
+         System.out.print(s3 + " " + twoStrings(s1, s2));     
+        }     
+    }      
+   System.out.println(" ");   
+  }  
+    // Look at 2 Strings and return them in alphabetical order   
+  public static String twoStrings(String x, String y) {  
+       if (x.compareTo(y) < 0) {      
+       return (x + " " + y);      
+   } else {         
+    return (y + " " + x);    
+     }   
+  }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

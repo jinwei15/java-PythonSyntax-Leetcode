@@ -1,0 +1,165 @@
+public static void main(String[] args) {  
+        Scanner keyboard = new Scanner(System.in);     
+    System.out.print("Enter the upper bound:");     
+    int upper = keyboard.nextInt();   
+      for (int i = 1; i <= upper; i++) {  
+           if (isPrime(i)) {            
+     System.out.println(i);        
+     }      
+   }    
+ }   
+
+  // method to check if an integer is a prime number   
+  private static boolean isPrime(int posInt) {   
+      int limit = (int) Math.sqrt(posInt);     
+    for (int x = 2; x <= limit; x++) {          
+   if ((posInt % x) == 0) {              
+   return false;       
+      }    
+     }   
+      return true;  
+   } 
+
+
+
+
+
+
+
+
+import java.util.Scanner; 
+public class PrimeExample {   
+  public static void main(String[] args) {    
+     Scanner keyboard = new Scanner(System.in);      
+   System.out.print("Enter the first integer:");    
+     int n1 = keyboard.nextInt();      
+   if (isPrime(n1)) {           
+  System.out.println("The sum is a prime number");      
+   } else {          
+   System.out.println("The sum is not a prime number");       
+  }    
+ }    
+ // method to check if an integer is a prime number   
+ private static boolean isPrime(int posInt) {    
+     int limit = (int) Math.sqrt(posInt);      
+   for (int i = 2; i <= limit; i++) {      
+       if ((posInt % i) == 0) {          
+       return false;           
+  }      
+   }   
+      return true;   
+  }  
+}
+
+
+
+
+
+
+
+
+
+
+
+import java.util.Scanner; public class PrimeExample {  
+   public static void main(String[] args) {     
+    Scanner keyboard = new Scanner(System.in);    
+     System.out.print("Enter the first integer:");    
+     int n1 = keyboard.nextInt();       
+  if (isPrime(n1)) {          
+   System.out.println("The sum is a prime number");     
+    } else {     
+        System.out.println("The sum is not a prime number");   
+      }   
+  } 
+    // method to check if an integer is a prime number  
+  private static boolean isPrime(int posInt) {   
+      int limit = (int) Math.sqrt(posInt);      
+   for (int i = 2; i <= limit; i++) {         
+    if ((posInt % i) == 0) {          
+       return false;          
+   }       
+  }     
+   return true;   
+  }  
+}
+
+
+
+
+
+
+import java.util.Scanner; public class PrimeExample {  
+   public static void main(String[] args) {     
+    Scanner keyboard = new Scanner(System.in);    
+     System.out.print("Enter the first integer:");    
+     int n1 = keyboard.nextInt();      
+   if (isPrime(n1)) {         
+    System.out.println("The sum is a prime number");     
+    } else {      
+       System.out.println("The sum is not a prime number");     
+    }   
+  }    
+ // method to check if an integer is a prime number  
+  private static boolean isPrime(int posInt) {  
+       int limit = (int) Math.sqrt(posInt);       
+  for (int i = 2; i <= limit; i++) {            
+ if ((posInt % i) == 0) {              
+   return false;         
+    }       
+  }    
+     return true;   
+  }  
+}
+
+
+
+
+
+
+import java.util.Scanner; public class PrimeExample {  
+   public static void main(String[] args) {     
+    Scanner keyboard = new Scanner(System.in);     
+    System.out.print("Enter the first integer:");     
+    int n1 = keyboard.nextInt();       
+  if (isPrime(n1)) {        
+     System.out.println("The sum is a prime number");      
+   } else {         
+    System.out.println("The sum is not a prime number");    
+     }   
+  }    
+ // method to check if an integer is a prime number  
+  private static boolean isPrime(int posInt) {  
+       int limit = (int) Math.sqrt(posInt);      
+   for (int i = 2; i <= limit; i++) {         
+    if ((posInt % i) == 0) {             
+    return false;         
+    }       
+  }    
+     return true;   
+  }  
+}
+
+
+
+
+
+
+
+
+ public static void main(String[] args) {  
+        Scanner keyboard = new Scanner(System.in);   
+      System.out.print("Enter the upper bound:");      
+   int upper = keyboard.nextInt();      
+   int count = 0;      
+   for (int i = 1; i <= upper; i++) {      
+       if (isPrime(i)) {        
+         System.out.println(i);       
+          count++;           
+  }      
+   }   
+  System.out.println(count + " prime numbers found");   
+  }     // method to check if an integer is a prime number    
+ private static boolean isPrime(int posInt) {     
+         ¡­¡­¡­¡­¡­¡­..   
+  }

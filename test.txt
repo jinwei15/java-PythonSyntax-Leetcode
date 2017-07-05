@@ -1,0 +1,10 @@
+public class test{
+     public static void main(String[] args){
+         double days=46;
+         double week=days/7;
+         System.out.println("”–"+week+"÷‹");  
+         double days1=days%7;
+         System.out.println(" £"+days1+"ÃÏ");
+
+      }
+}

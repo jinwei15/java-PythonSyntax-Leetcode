@@ -1,0 +1,39 @@
+package pkgthis;
+
+class This {
+
+    String name;
+    int age;
+    String color;
+
+    public void set(String name, int age, String color) {
+        this.age = age;
+        this.name = name;
+        this.color = color;
+    }
+
+    public String toString() {
+        return "name :" + name + "\t age:" + age + "\t color:" + color;
+    }
+
+    public This abc() {
+     return this;
+    }
+}
+
+public class pp {
+
+    public static void main(String[] args) {
+        This one = new This();
+        This two = new This();
+        This three = new This();
+        one.set("zhang", 5, "black");
+        two.set("qin", 2, "white");
+           three=two.abc();
+        System.out.println(one);
+        System.out.println(two);
+        System.out.println(three);
+
+    }
+
+}

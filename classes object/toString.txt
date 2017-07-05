@@ -1,0 +1,25 @@
+
+package tostring;
+class Cat{
+  String name;
+  int age;
+  public String toString(){
+      return"my name is:" +name+" my age is"+age;        
+}
+}
+
+public class Test {
+
+   
+    public static void main(String[] args) {
+       Cat one=new Cat();
+       one.name="zhang";
+       one.age=12;
+       Cat two=new Cat();
+       two.name="qin";
+       two.age=13;
+       System.out.println(one.toString());
+         System.out.println(two.toString());
+    }
+    
+}

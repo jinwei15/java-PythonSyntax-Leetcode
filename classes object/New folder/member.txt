@@ -1,0 +1,10 @@
+public class member{
+   
+   public static void main(String[]args){
+      Test MyTest=new Test()
+      System.out.println(Test.name);
+
+   }
+
+
+}

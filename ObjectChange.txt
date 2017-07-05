@@ -1,0 +1,36 @@
+package object.change;
+//object change up 
+class Animal {
+
+    void sleep() {
+        System.out.println("sleeping");
+    }
+}
+
+class Cat extends Animal {
+
+    void catchMouse() {
+        System.out.println("kill mouse");
+    }
+}
+
+class Dog extends Animal {
+
+}
+
+public class ObjectChange {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        Animal a = new Cat(); //向上转型 默认
+        Cat c=(Cat)a;        //向下转型  强制
+        //Dog d=(Dog) a; wrong
+        //关键字 instanceof测试左边对象是否是右边类的实例
+        System.out.println(a instanceof Cat);
+        c.catchMouse();
+        c.sleep();
+    }
+
+}

@@ -1,0 +1,15 @@
+public class Week2_Q6 {  
+    public static void main(String[] args) {  
+       int n1;      
+   int n2;      
+   int n3;      
+   int sum;      
+   n1 = dataEntry();     
+    n2 = dataEntry();     
+    n3 = dataEntry();     
+    sum = n1 + n2 + n3;     
+    System.out.println("The numbers are " + n1 + ", " + n2 + ",  " + n3);       
+  System.out.println("The sum is " + sum);    }    
+     private static int dataEntry() { ¡­¡­¡­..  
+   }  
+} 

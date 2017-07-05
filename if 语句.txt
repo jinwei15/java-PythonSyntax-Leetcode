@@ -1,0 +1,110 @@
+import java.util.*;
+public class if test{
+  public static void main(String[] args){
+       Scanner in=new Scanner (System.in);
+       System.out.println("please enter your score:");
+       int score=in.nextInt();
+       if(score>90){
+            System.out.println("fuck with u");
+  
+
+       }
+            System.out.println("please attend recuit exam!");
+
+     }
+}
+
+
+
+&& and
+||  or
+！  not
+
+令狐冲java成绩大于90并且c#成绩大于80师傅奖励
+ 或者java成绩为100分 音乐成绩大于70 师傅奖励
+
+
+import java.util.*;
+public class score{
+     public static void main (String[]args){
+     Scanner kb=new Scanner(System.in);
+     System.out.println("enter your java score:");
+     int java=in.nextInt();
+     System.out.println("enter your SQL:");
+     int sql=in.nextInt();
+     if(java>90&&sql>90){
+            System.out.println("give u a present");
+      }
+      System.out.println("test")
+}
+}
+     System.out.println("test") ;     
+  }
+}
+
+
+
+
+
+多重if
+
+import java.util.*;
+public class score{
+     public static void main (String[]args){
+     Scanner kb=new Scanner(System.in);
+     System.out.println("enter your  score:");
+     int score=in.nextInt();
+
+     if(score>=90){
+         System.out.println("excellent");
+     }else if(score>=80){
+         System.out.println("good");
+     }else if(score>=60){
+         System.out.println("so so");
+     }else {
+         System.out.println("bad");
+     }
+     System.out.println("test");
+     }
+}
+
+
+
+
+
+嵌套if
+
+
+import java.util.*;
+piblic class if_else{
+    public static void main(String[]args){
+        Scanner in=new Scanner(System.in);
+        System.out.println("may i have your gender?")
+        String gender=in.next();
+        if (gender.equals("male")){
+               System.out.println("what is your age?");
+               int age=in.nextInt();
+               if (age>=18){
+                       System.out.println("adult!")   
+               }else{
+                       System.out.println("nonage!")
+               }
+
+        }else{
+            System.out.println("holy bitch!")
+        }    
+
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+public class Localvaribles{
+   public static void main (String[]arg){
+      int j=34
+      while (true){
+         int i=9;
+         System.out.println(i);
+
+
+      }
+         System.out.println(i);   
+   }
+
+
+}
