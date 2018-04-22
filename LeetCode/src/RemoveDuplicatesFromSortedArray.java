@@ -7,7 +7,9 @@ public class RemoveDuplicatesFromSortedArray {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		SolutionRemoveDuplicatesFromSortedArray dd = new SolutionRemoveDuplicatesFromSortedArray();
+		int[] arr = new int[] {1,2,3,4};
+		dd.removeDuplicates(arr);
 	}
 }
 
@@ -38,18 +40,11 @@ class SolutionRemoveDuplicatesFromSortedArray {
 				nums[i] = nums[j];
 			}
 		}
+		
+		for (int j = 0; j < nums.length; j++) {
+			System.out.print(nums[j]);
+		}
+		
 		return i + 1;
 	}
 }
-
-
-//you know some time you think you are good.
-//that is the time that you are being a fool;
-//some time you are frustreted that is the time you are
-//growing up. Hopefully you can learn form what you have
-//missed and learn from it
-
-
-
-//what have already passed can not go back. What you need to do
-//is right now!.
