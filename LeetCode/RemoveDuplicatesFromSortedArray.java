@@ -41,3 +41,15 @@ class SolutionRemoveDuplicatesFromSortedArray {
 		return i + 1;
 	}
 }
+
+
+//you know some time you think you are good.
+//that is the time that you are being a fool;
+//some time you are frustreted that is the time you are
+//growing up. Hopefully you can learn form what you have
+//missed and learn from it
+
+
+
+//what have already passed can not go back. What you need to do
+//is right now!.
