@@ -8,3 +8,10 @@ Although I am an A* student in the university (who knows how to take exams and a
 
 hopefully someone seen this can also be motivited and keep going.
 --jinwei
+
+Record:
+
+24th 
+25th
+26th
+27th 10.35
