@@ -12,6 +12,9 @@ hopefully someone seen this can also be motivited and keep going.
 Record:
 
 24th 
+
 25th
+
 26th
+
 27th 10.35
