@@ -28,13 +28,13 @@ public class RemoveDuplicatesfromSortedList {
 }
 
 
-//  Definition for singly-linked list.
-  class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
- 
-  }
+////  Definition for singly-linked list.
+//  class ListNode {
+//      int val;
+//      ListNode next;
+//      ListNode(int x) { val = x; }
+// 
+//  }
   
   //I will start this in the simplest way
 class SolutionRemoveDuplicatesfromSortedList {
