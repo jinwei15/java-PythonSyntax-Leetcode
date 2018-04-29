@@ -11,12 +11,14 @@ hopefully someone seen this can also be motivited and keep going.
 
 Record:
 
-24th 
+4.24th 
 
-25th
+4.25th
 
-26th
+4.26th
 
-27th 10.35
+4.27th 10.35
 
-28th 8.13
+4.28th 8.13
+
+4.29th 13.02  
