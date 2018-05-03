@@ -4,7 +4,7 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 
 # aim: finsh the easy and medium part by the end of summer (3 months)
 
-Although I am an "good" student in the university (who knows how to take exams and assignment). I kept been rejected when it comes to looking for a job or an intenship as an international student. I study in England and have a lot of oppotunity to learn. This is the reason why I start coding in the leetcode. It can not only prepare me for interview but also revise the data strucure and algorithm. 
+Although I am a "good" student in the university (who knows how to take exams and assignment). I kept been rejected when it comes to looking for a job or an intenship as an international student. Then I realised that study hard is not necessary to secure you a job. I study in England and have a lot of oppotunity to learn. This is the reason why I start coding in the leetcode. It can not only prepare me for interview but also revise the data strucure and algorithm. 
 
 hopefully someone seen this can also be motivited and keep going.
 --jinwei
