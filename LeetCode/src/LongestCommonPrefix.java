@@ -23,7 +23,10 @@ public class LongestCommonPrefix {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		SolutionLong bb =new SolutionLong();
+		bb.longestCommonPrefix(new String[] {"aa","ab"});
+		
+  
 	}
 
 }
@@ -34,7 +37,7 @@ class SolutionLong {
 		int index = 0;
 		String common = "";
 		boolean hasFound = false;
-		char pivot = strs[0].charAt(0);
+		char pivot;
 
 		// need to check pre-condition
 		if (strs.length == 0 || strs[0].equals("")) {
@@ -47,19 +50,35 @@ class SolutionLong {
 		// check and print put the common string
 		while (!hasFound) {
 			for (int i = 0; i < strs.length; i++) {
-				// pivot = strs[0].charAt(index);
+				if(index>=strs[i].length()){
+					System.out.println(index-1+" "+i);
+					if(index-1>=0) {
+                    common = strs[i].substring(0, index-1);
+					}else {
+						common = "";
+					}
+                    return common;
+                }
 				if (strs[i].charAt(index) == pivot) {
 					// common = strs[i].substring(0, index);
 
 				} else {
+					if(index!=0) {
 					common = strs[i].substring(0, index);
 					hasFound = true;
+					}else {
+						return "";
+					}
 				}
 				// if the loop is in the last word and the index is still in the range
 				if (i == strs.length - 1 && index < strs[0].length() - 1) {
 					index++;
 					pivot = strs[0].charAt(index);
 				}
+                else if(i == strs.length - 1 && index == strs[0].length() - 1){
+                    common = strs[0];
+                    hasFound = true;
+                }
 
 			}
 		}

@@ -25,10 +25,101 @@ public class AddBinary {
 
 
 class SolutionAddBinary {
-    public String addBinary(String a, String b) {
-        long number0 = Long.parseLong(a, 2);
-        long number1 = Long.parseLong(b, 2);
+	 public String addBinary(String a, String b) {
+	        int lengthA = a.length();
+	        int lengthB = b.length();
+	        int[] result = new int[Math.max(lengthA, lengthB)+1];
+	        int[] numsA = new int[lengthA], numsB = new int[lengthB];
+	            //reverse
+	        for(int i=0;i<lengthA;i++){
+	            numsA[i] = a.charAt(numsA.length-1-i)-'0';
+	        }
+	        
+	          for(int i=0;i<lengthB;i++){
+	            numsB[i] = b.charAt(numsB.length-1-i)-'0';
+	        }
+	       
+	 
+	        for(int i =0;i<result.length-1;i++){
+	          if(i<lengthA && i>=lengthB){
+	              result[i] += numsA[i];
+	          }else if(i>=lengthA && i<lengthB){
+	              result[i] += numsB[i];
+	          }else if(i<lengthA && i<lengthB){
+	              result[i] += numsB[i];
+	              result[i] += numsA[i];
+	          }
+	            if(result[i]==2||result[i]==3){
+	                  result[i] = result[i]%2;
+	                  result[i+1]++;
+	              }
+	            
+	        }
+	        
+	        
+	         final int RADIX = 10;
+	        if(result[result.length-1]==0){
+	            char strArray[] = new char[result.length-1];
+	            for (int i = 0; i < result.length-1; i++)
+			
+	           
 
-        return  Long.toBinaryString(number0 + number1); 
-    }
+	strArray[i] = Character.forDigit(result[result.length-1-1-i], RADIX);
+	            return  String.valueOf(strArray);
+	        }else{
+	            char strArray[] = new char[result.length];
+	            for (int i = 0; i < result.length; i++)
+				strArray[i] = Character.forDigit(result[result.length-1-i], RADIX);
+	            return  String.valueOf(strArray);
+	        }
+	        	
+
+			
+	        
+	        
+	        
+//	          long number0 = Long.parseLong(a, 2);
+//	         long number1 = Long.parseLong(b, 2);
+
+//	         return  Long.toBinaryString(number0 + number1); 
+	      //string to int
+	        
+	        
+//	         double numA = Double.parseDouble(a);	
+//	         double numB = Double.parseDouble(b);
+//	         double sum = numA+numB;
+	        
+//	         //int to string
+//	         String temp = String.valueOf(sum);
+//	         int[] digits = new int[temp.length()];
+//	         for (int i = 0; i < temp.length(); i++)
+//	         {
+//	             digits[i] = temp.charAt(i) - '0';
+//	         }
+	        
+	        
+//	         for (int i = digits.length - 1; i >= 0; i--) {
+//	 			if (digits[i] == 2 || digits[i] == 3) {
+//	 				digits[i] = digits[i]%2;
+//	 				//if the i is with in the bound
+//	 				if (i - 1 >= 0) {
+//	 					digits[i - 1]++;
+//	 				} else {
+//	 					//default as all 0
+//	                   int []newArr = new int[digits.length+1];
+//	                    newArr[0] = 1;
+//	                     for(int j =0;j<digits.length;j++){
+//	                         newArr[j+1] = digits[j];
+//	                     }
+//	                       digits = new int[digits.length+1];
+//	                     digits = newArr;
+//	 				}
+
+//	 			}
+//	 		}
+	        
+//	         return Arrays.toString(digits).replaceAll("\\[|\\]|,|\\s", "");
+	        
+	        
+	    }
 }
