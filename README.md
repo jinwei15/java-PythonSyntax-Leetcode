@@ -9,7 +9,7 @@ Although I am a "good" student in the university (who knows how to take exams an
 hopefully someone seen this can also be motivited and keep going.
 --jinwei
 
-Easy life
+Easy life 剁手复习期间不刷OJ
 
 😄4.24 
 😄4.25
