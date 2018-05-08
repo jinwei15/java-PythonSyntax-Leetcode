@@ -9,7 +9,7 @@ Although I am a "good" student in the university (who knows how to take exams an
 hopefully someone seen this can also be motivited and keep going.
 --jinwei
 
-Easy life 剁手复习期间不刷OJ
+Easy life 剁手复习期间不刷OJ I hate the HR people who knows nothing anout the IT and fucking ignore people. 
 
 😄4.24 
 😄4.25
