@@ -11,7 +11,7 @@ hopefully someone seen this can also be motivited and keep going.
 
 Easy life 剁手复习期间不刷OJ I hate the HR people who knows nothing anout the IT and fucking ignore people. I do not think there should be a HR people that kills the "good" people and give the oppotunity to some rubbish.
 
-Eventually I will be better than all of you cunt
+Eventually I will teach what is life! 
 
 😄4.24 
 😄4.25
