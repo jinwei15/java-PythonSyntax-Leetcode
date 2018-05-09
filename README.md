@@ -30,3 +30,23 @@ Eventually I will teach what is life!
 😎5.8 9.21
 😎5.9 9.37 tomorrow is the final deadline 
 
+拿出一张纸，写上你现在拥有的，
+   家人健在，
+   身体健康，
+   有女朋友，
+   帝国理工offer，
+   一段实习经历，
+   很多朋友 from aow
+
+在写上你想要的，自由、身材等等。
+   facebook google 大公司工作
+   好的身材
+   能静下来的思维
+
+在写上你缺失的，比如
+   没有毅力，
+   心态不好，
+   患得患失
+
+你就大概明了自己该干些啥了。
+
