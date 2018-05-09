@@ -52,3 +52,5 @@ Eventually I will teach what is life!
 
 你就大概明了自己该干些啥了。
 
+when your strength has stand out everything else has been fade out
+
