@@ -47,6 +47,8 @@ Eventually I will teach what is life!
    没有毅力，
    心态不好，
    患得患失
+   急于求成
+   小动作多
 
 你就大概明了自己该干些啥了。
 
