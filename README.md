@@ -33,6 +33,7 @@ Eventually I will teach what is life!
 😎5.11 19.46 revise advanced web and muti agent so tired
 😎5.12 15.08 revise muti agent so tired I can finish
 😎5.13 8.55 revise muti agent so tired I can finish
+😎5.14 8.55 revise muti agent and web 千万不要愤世嫉俗 这样会block 你的 mind 阻止你前进
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
