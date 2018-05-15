@@ -34,7 +34,7 @@ Eventually I will teach what is life!
 😎5.12 15.08 revise muti agent so tired I can finish
 😎5.13 8.55 revise muti agent so tired I can finish
 😎5.14 8.55 revise muti agent and web 千万不要愤世嫉俗 这样会block 你的 mind 阻止你前进
-😎5.15 10.00 finish web tech
+😎5.15 10.00 finish web tech 现在的HR 真的事狗眼不识泰山！ 屁都不会 在这里乱筛选简历
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
