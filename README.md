@@ -38,7 +38,7 @@ Eventually I will teach what is life!
 😎5.16 10.00 finish web tech 狗眼看人低的HR
 😎5.18 10.00 finish all
 😎5.20 6.25 感谢那些拒绝我的HR 你们不仅仅证明了你是煞笔，也说明了你们给我我更好的机会
-😎5.23 6.25 fucking start temporal logic, leetcode crashed today!! yehh
+😎5.23 6.25 fucking start temporal logic, leetcode crashed today!! yehh listen to some nice songs 
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
