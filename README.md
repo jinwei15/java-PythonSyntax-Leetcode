@@ -40,7 +40,7 @@ Eventually I will teach what is life!
 😎5.20 6.25 感谢那些拒绝我的HR 你们不仅仅证明了你是煞笔，也说明了你们给我我更好的机会
 😎5.23 6.25 fucking start temporal logic, leetcode crashed today!! yehh listen to some nice songs 
 🐶5.24 properly start the formal method
-🐶5.27 every thing you must do on your own !
+🐶5.27 every thing you must do on your own !!
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
@@ -54,6 +54,7 @@ Eventually I will teach what is life!
    facebook google 大公司工作
    好的身材
    能静下来的思维
+   能力 与 自信
 
 在写上你缺失的，比如
    没有毅力，
