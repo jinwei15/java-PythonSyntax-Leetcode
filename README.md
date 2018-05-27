@@ -64,6 +64,7 @@ Eventually I will teach what is life!
    小动作多
 
 你就大概明了自己该干些啥了。
+基本所有东西都是越学越精通，医学 笼统--科室--某个领域手术。 某个部位/系统
 
 when your strength has stand out everything else has been fade out
 
