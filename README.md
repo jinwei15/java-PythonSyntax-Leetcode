@@ -68,3 +68,13 @@ Eventually I will teach what is life!
 
 when your strength has stand out everything else has been fade out
 
+summer： 
+
+Mahine learning course。
+
+leetcode
+
+game finalise
+
+personal web front-end
+
