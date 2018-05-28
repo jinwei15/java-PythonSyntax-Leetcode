@@ -39,8 +39,9 @@ Eventually I will teach what is life!
 😎5.18 10.00 finish all
 😎5.20 6.25 感谢那些拒绝我的HR 你们不仅仅证明了你是煞笔，也说明了你们给我我更好的机会
 😎5.23 6.25 fucking start temporal logic, leetcode crashed today!! yehh listen to some nice songs 
-🐶5.24 properly start the formal method
+🐶5.24 properly start the formal method🐶5.27 every thing you must do on your own !!
 🐶5.27 every thing you must do on your own !!
+🐶5.28 阿里巴巴 吉利 的HR 真的傻逼 我擦。真的HR 是我见过最傻逼的职业。
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
