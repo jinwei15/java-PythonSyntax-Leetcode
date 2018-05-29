@@ -42,6 +42,8 @@ Eventually I will teach what is life!
 🐶5.24 properly start the formal method🐶5.27 every thing you must do on your own !!
 🐶5.27 every thing you must do on your own !!
 🐶5.28 阿里巴巴 吉利 的HR 真的傻逼 我擦。真的HR 是我见过最傻逼的职业。
+🐶5.29 明天考试 加油
+
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
