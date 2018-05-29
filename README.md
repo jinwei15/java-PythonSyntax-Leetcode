@@ -43,7 +43,7 @@ Eventually I will teach what is life!
 🐶5.27 every thing you must do on your own !!
 🐶5.28 阿里巴巴 吉利 的HR 真的傻逼 我擦。真的HR 是我见过最傻逼的职业。
 🐶5.29 明天考试 加油
-
+🐶5.30 考完终于可以写程序 干自己想嘎干的了
 
 
 
