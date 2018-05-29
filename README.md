@@ -47,6 +47,7 @@ Eventually I will teach what is life!
 
 
 
+
 拿出一张纸，写上你现在拥有的，
    家人健在，
    身体健康，
