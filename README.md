@@ -46,7 +46,7 @@ Eventually I will teach what is life!
 🐶5.30 考完终于可以写程序 干自己想干的了
 🐶5.30 　fucking Ali interview 垃圾阿里面试加油,面试凉凉啦kkk
 🐶6.1　start the new life
-
+🐶6.2　Try to focus. work harder
 
 
 拿出一张纸，写上你现在拥有的，
