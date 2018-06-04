@@ -48,7 +48,7 @@ Eventually I will teach what is life!
 🐶6.1　start the new life
 🐶6.2　Try to focus. work harder
 🐶6.3　Finish off the project.
-
+🐶6.4　reconsider the ravelin test code
 
 拿出一张纸，写上你现在拥有的，
    家人健在，
@@ -72,17 +72,5 @@ Eventually I will teach what is life!
    小动作多
 
 你就大概明了自己该干些啥了。
-基本所有东西都是越学越精通，医学 笼统--科室--某个领域手术。 某个部位/系统
 
-when your strength has stand out everything else has been fade out
-
-summer： 
-
-Mahine learning course。
-
-leetcode
-
-game finalise
-
-personal web front-end
 
