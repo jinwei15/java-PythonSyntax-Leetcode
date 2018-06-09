@@ -25,7 +25,7 @@ class TwoSumII_InputArraySortedSolution {
 		int[] ans = new int[2];
 		boolean found = false;
 		// find the answer then stop
-		while (!found) {
+		while (!found && numbers.length >= 2) {
 			int temp = numbers[left] + numbers[right];
 				if (temp == target) {
 					ans[0] = left+1;
