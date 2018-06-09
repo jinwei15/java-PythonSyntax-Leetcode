@@ -42,7 +42,7 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 🐶6.3　Finish off the project.
 🐶6.4　reconsider the ravelin test code
 🐶6.5　早晨起来收到阿里巴巴的拒信 心态很平静，很多很多自己没有努力争取过的东西 失去了也不会很难过。况且真的自己没有时间准备。所以失去很正常。
-⛏6.9 好多天没有commit code 今天开始重拾leetcode 开始重新刷题， 增强自己的技术 算法 leetcode 崩了. be patient be quiet everyting you can hear
+⛏6.9 好多天没有commit code 今天开始重拾leetcode 开始重新刷题， 增强自己的技术 算法 leetcode 崩了. be patient be quiet everyting you can hear. changing read me need to pull and merge
 
 
 
