@@ -4,14 +4,6 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 
 # aim: finsh the easy and medium part by the end of summer (3 months)
 
-Although I am a "good" student in the university (who knows how to take exams and assignment). I kept been rejected when it comes to looking for a job or an intenship as an international student. Then I realised that study hard is not necessary to secure you a job. I study in England and have a lot of oppotunity to learn. This is the reason why I start coding in the leetcode. It can not only prepare me for interview but also revise the data strucure and algorithm. 
-
-hopefully someone seen this can also be motivited and keep going.
---jinwei
-
-Easy life 剁手复习期间不刷OJ I hate the HR people who knows nothing anout the IT and fucking ignore people. I do not think there should be a HR people that kills the "good" people and give the oppotunity to some rubbish.
-
-Eventually I will teach what is life! 
 
 😄4.24 
 😄4.25
@@ -50,30 +42,9 @@ Eventually I will teach what is life!
 🐶6.3　Finish off the project.
 🐶6.4　reconsider the ravelin test code
 🐶6.5　早晨起来收到阿里巴巴的拒信 心态很平静，很多很多自己没有努力争取过的东西 失去了也不会很难过。况且真的自己没有时间准备。所以失去很正常。
-⛏6.9 好多天没有commit code 今天开始重拾leetcode 开始重新刷题， 增强自己的技术 算法 leetcode 崩了
+⛏6.9 好多天没有commit code 今天开始重拾leetcode 开始重新刷题， 增强自己的技术 算法 leetcode 崩了. be patient be quiet everyting you can hear
 
 
-拿出一张纸，写上你现在拥有的，
-   家人健在，
-   身体健康，
-   有女朋友，
-   帝国理工offer，
-   一段实习经历，
-   很多朋友 from aow
 
-在写上你想要的，自由、身材等等。
-   facebook google 大公司工作
-   好的身材
-   能静下来的思维
-   能力 与 自信
-
-在写上你缺失的，比如
-   没有毅力，
-   心态不好，
-   患得患失
-   急于求成
-   小动作多
-
-你就大概明了自己该干些啥了。
 
 
