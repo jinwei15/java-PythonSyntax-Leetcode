@@ -20,34 +20,35 @@ public class MinimumSizeSubarraySum {
 }
 
 class MinimumSizeSubarraySumSolution {
-	 public int minSubArrayLen(int s, int[] nums) {
-		 int min = 0;
-	        int result = Integer.MAX_VALUE;
-	        int sum = 0;
-	        if(nums.length==0) return 0;
-	        for (int i = 0;i<nums.length-1;i++){
-	            if(nums[i]<7){
-	                min = 1;
-	            }else{
-	                min = 0;
-	            }
-	            
-	            sum = nums[i];
-	            int j=i+1;
-	            while(j<nums.length){
-	                sum +=  nums[j];
-	                if(sum<=s){
-	                    min ++;
-	                }else{
-	                    if(min < result){
-	                        result = min;
-	                    }
-	                    break;
-	                }
-	                j++;
-	            }
-	        }
-	        
-	        return result;
-	 }
+	  public int minSubArrayLen(int s, int[] nums) {
+        int min = 0;
+        int result = Integer.MAX_VALUE;
+        int sum = 0;
+        if(nums.length==0) return 0;
+        for (int i = 0;i<nums.length-1;i++){
+            if(nums[i]<s){
+                min = 1;
+            }else{
+                min = 0;
+            }
+            
+            sum = nums[i];
+            int j=i+1;
+            while(j<nums.length){
+                sum +=  nums[j];
+             
+                min ++;
+                if (sum > s){
+                    if(min < result){
+                        result = min;
+                    }
+                    break;
+                }
+                j++;
+            }
+        }
+        
+        return result;
+    }
+}
 }
