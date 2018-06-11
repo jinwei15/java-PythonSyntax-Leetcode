@@ -44,7 +44,7 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 🐶6.5　早晨起来收到阿里巴巴的拒信 心态很平静，很多很多自己没有努力争取过的东西 失去了也不会很难过。况且真的自己没有时间准备。所以失去很正常。
 ⛏6.9 好多天没有commit code 今天开始重拾leetcode 开始重新刷题， 增强自己的技术 算法 leetcode 崩了. be patient be quiet everyting you can hear. changing read me need to pull and merge
 ⛏6.10入住新酒店 hostel 提交一个代码 代表今天写了，送走了卓子 单身生活开始了. The internet here is shit. I will go to british Library tomorrow.
-⛏6.11 巨无霸累，无法形容站2-3小时 和坐车坐地铁的痛苦。 非常不适 无法动弹
+⛏6.11 巨无霸累，无法形容站2-3小时 和坐车坐地铁的痛苦。 非常不适 无法动弹 希望一些都安好
 
 
 
