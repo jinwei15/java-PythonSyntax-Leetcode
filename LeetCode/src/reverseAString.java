@@ -1,3 +1,5 @@
+//five main techniques of reversing the string all of them are not hard
+
 //1.Converting String into Bytes
 
 //2.Using built in reverse() method of the StringBuilder class
