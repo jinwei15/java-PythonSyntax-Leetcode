@@ -46,7 +46,7 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 ⛏6.10入住新酒店 hostel 提交一个代码 代表今天写了，送走了卓子 单身生活开始了. The internet here is shit. I will go to british Library tomorrow.
 ⛏6.11 巨无霸累，无法形容站2-3小时 和坐车坐地铁的痛苦。 非常不适 无法动弹 希望一些都安好 22.30 stop too tired
 ⛏6.12 今天面试 加油。 年轻多锻炼 加油，加油 check out 太早了 郁闷
-⛏6.13 面试完了 再谷歌门口坐了 将近半小时 真的人还是得有梦
+⛏6.13 面试完了 再谷歌门口坐了 将近半小时 真的人还是得有梦 真的不知道，每天躺尸真的太难受了。 羡慕那些幸运的人。讨厌那些说三道四的傻子。
 
 
 
