@@ -50,6 +50,8 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 ⛏6.14 面试必须读取面试官内心的想法 硬本事+读心+故意的性格方面的 表达
 ⛏6.15 ravelin 把我拒绝。 突然发现我 没有一个特殊所长。
 ⛏6.16 感谢拒绝我的人
+⛏6.18 得到了工程师回信，非常感谢。
+
 
 
 
