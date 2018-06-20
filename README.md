@@ -52,7 +52,7 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 ⛏6.16 感谢拒绝我的人
 ⛏6.18 得到了工程师回信，非常感谢。
 6.19 gone to london to take my visa and had the c++ meet up near liverpool station.
-⛏6.21 today pretty much wasted it. talented people do not need a walk on the same track everybody walks on.I wish everything could be fine. Because I have done pretty much everying in the uni. I have got pretty much every "foundation"
+⛏6.21 today pretty much wasted it. talented people do not need a walk on the same track everybody walks on.I wish everything could be fine. Because I have done pretty much everying in the uni. I have got pretty much every "foundation" 包括现在去看看meetUp 里的人们，都是年龄非常大的人，仍旧在学习，痴迷一件事情。技术会落后 思想不会落后。专业经历集中于一件事情
 
 
 
