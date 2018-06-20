@@ -55,6 +55,8 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 ⛏6.21 today pretty much wasted it. talented people do not need a walk on the same track everybody walks on.I wish everything could be fine. Because I have done pretty much everying in the uni. I have got pretty much every "foundation" 包括现在去看看meetUp 里的人们，都是年龄非常大的人，仍旧在学习，痴迷一件事情。技术会落后 思想不会落后。专业经历集中于一件事情。软实力和硬实力 都要突出 这样才能获胜。
 ⛏6.21 永远要不停的尝试 任何事情就像是滑雪 从不会摔倒 到慢慢熟练 再到勇于更新的突破自己， 不断的打破自己才可以得到提升。 类似于高中高一的我， 习惯了初中2班舒适的安逸的速度 一下子不习惯 焦头烂额。非常不适应。后来迎头赶上，考的是坚持和那种豁出去的信念， 永远安逸于自己的现阶段的水平永远无法做出提升，永远是在自己的舒适圈 
 
+⛏6.21 研究生应该定的目标就是 写更多自己喜欢的东西，学更多自己喜欢的课程（数学，数据科学）更加充实自己。
+
 
 
 
