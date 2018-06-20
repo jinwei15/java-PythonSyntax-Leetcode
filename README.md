@@ -52,6 +52,7 @@ basic java syntax that I wrote in Y2 and Y1 and leetcode solution (part)
 ⛏6.16 感谢拒绝我的人
 ⛏6.18 得到了工程师回信，非常感谢。
 6.19 gone to london to take my visa and had the c++ meet up near liverpool station.
+⛏6.21 today pretty much wasted it.
 
 
 
