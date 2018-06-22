@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+import java.nio.charset.spi.CharsetProvider;
+import java.util.*;
 
 /**
  * 
@@ -28,7 +29,10 @@ public class CountandSay {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Solution bb = new Solution();
+		String output = bb.countAndSay(8);
+		System.out.println("result is:"
+				+ ""+output);
 	}
 
 }
@@ -40,25 +44,37 @@ class Solution {
 
 		ArrayList<Integer> previous = new ArrayList<Integer>();
 		ArrayList<Integer> holding = new ArrayList<Integer>();
-		String result = "";
 		
 		previous.add(1);
 		previous.add(1);
 		int pointer = 0;
 		int amount = 0;
 		for (int i=3; i<=n;i++) {
+			pointer = 0;
 			while(pointer<previous.size()) {
 				int currentNum = previous.get(pointer);
-				pointer++;
-				while(currentNum == previous.get(pointer)&&pointer<previous.size()) {
+			    amount = 0;
+				while(pointer<previous.size()&&currentNum == previous.get(pointer)) {
 					amount++;
-					
+					pointer++;
 				}
+				
+				holding.add(amount);
+				holding.add(currentNum);
 				
 			}
 			
+			previous = new ArrayList<Integer>(holding);
+			if(i<n) {
+				holding.clear();
+			}
 		}
 		
-		return result;
+		char[] output = new char[holding.size()];
+		for (int i = 0; i < holding.size(); i++)
+		{
+			output[i] = Character.forDigit(holding.get(i), 10);
+		}
+		return String.valueOf(output);
 	}
 }
