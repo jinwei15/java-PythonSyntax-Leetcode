@@ -24,7 +24,6 @@ class MinimumPathSumSolution {
                 f[i][j] = Math.min(f[i - 1][j], f[i][j - 1]) + grid[i][j];
             }
         }
-         
          //return the last number
         return f[m - 1][n - 1];
     }
