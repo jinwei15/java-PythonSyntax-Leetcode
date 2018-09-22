@@ -82,3 +82,10 @@ greeting.strip()#'Hello Bob'  remove both left and right space
 line = 'Please have a nice day'
 line.startswith('Please') #true
 line.startswith('P') #true
+
+#phrasing and extracting
+data = 'From jinwei.zhang18@imperial.ac.uk Sat Jan 5 150'
+atpos = data.find('@')  # 19
+addpos = data.find(' ',atpos) #find the space after stpos which is 34
+
+host = data[atpos+1:addpos]
