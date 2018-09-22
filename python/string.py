@@ -76,3 +76,9 @@ greeting  = '       Hello Bob   '
 greeting.lstrip()#'Hello Bob   '
 greeting.rstrip()#'       Hello Bob'
 greeting.strip()#'Hello Bob'  remove both left and right space
+
+
+#start with something
+line = 'Please have a nice day'
+line.startswith('Please') #true
+line.startswith('P') #true
