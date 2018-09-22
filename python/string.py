@@ -62,3 +62,17 @@ print(greet)
 stuff = 'Hello world'
 type(stuff)
 dir(stuff) #this is what it is capable of
+
+
+# replace string
+sentence = 'Hello Bob'
+sentence.replace('Bob','Jane')
+print(sentence) #Hello Jane
+sentence.replace('o','X') #HellX BXb
+
+
+#remove white space
+greeting  = '       Hello Bob   '
+greeting.lstrip()#'Hello Bob   '
+greeting.rstrip()#'       Hello Bob'
+greeting.strip()#'Hello Bob'  remove both left and right space
