@@ -58,3 +58,23 @@ for line in fhand:
             counts[word] += 1
 
 print(counts)
+
+# Looping and dictionaries
+counts = { 'chuck' : 1 , 'annie' : 42, 'jan': 100}
+for key in counts:
+    print(key, counts[key])
+
+# list of keys
+print(list(counts))
+
+# list of keys
+print(counts.keys())
+
+#list of values
+print(counts.values())
+
+#list of tuples
+print(counts.items())
+
+for kkk, vvv in counts.items():
+    print(kkk,vvv)
