@@ -118,4 +118,36 @@ print(lstKeys[maxIndex], maxNum)
 # print all the words and lines in a files
 
 fname = input('Enter File: ')
-if len(fname) < 1 : 
+if len(fname) < 1 : fname = 'clown.txt'
+hand = open (fname)
+
+di = dict()
+for lin in hand:
+    lin = lin.rstrip()
+    #print(lin)
+    words = lin.split()
+    #print(wds)
+
+    # for w in words:
+    #     if w in di :
+    #         di[w] = di[w] + 1
+    #         print('***Existing***')
+    #     else:
+    #         di[w] = 1
+    #         print('***NEW***')
+    #     print(di[w])
+
+    for w in wds:
+        di[w] = di.get(w,0) + 1
+
+print(di)
+
+largest = -1
+theWord = None
+for k,v in di.items():
+    print(k,v)
+    if v > largest :
+        larget = v
+        theWord = k
+
+print(larget , theWord)
