@@ -129,9 +129,34 @@ for val,key in lst[:10]:
 
 
 
+#this is simple version.
+fhand = open('romeo.txt')
+counts = dict()
+for line in fhand:
+	words = line.split()
+	for word in words:
+		counts[word] = counts.get(word,0) + 1
+#reverse the key and the value as a tuple 
+print (sorted([(v,k) for k,v in c.items() ] ))
 
 
 
+
+
+
+
+
+
+"""
+    10.2 Write a program to read through the mbox-short.txt and figure out the
+    distribution by hour of the day for each of the messages.
+    You can pull the hour out from the 'From ' line by finding the time and
+    then splitting the string a second time using a colon.
+    From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+    Once you have accumulated the counts for each hour, print out the counts,
+    sorted by hour as shown below
+
+"""
 
 
 
