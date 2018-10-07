@@ -158,6 +158,21 @@ print (sorted([(v,k) for k,v in c.items() ] ))
 
 """
 
+name = input("Enter file:")
+if len(name) < 1 : name = "mbox-short.txt"
+counts = dict()
+handle = open(name)
+for line in handle:
+    if line.startswith('From'):
+        colpos = line.find(':')  #find the first colon
+        if colpos > 4:
+            
+            word = line[colpos-2:colpos]
+            counts[word] = counts.get(word,0) + 1
+
+for k,v in sorted(counts.items()):
+    print(k,v)
+
 
 
 
