@@ -87,7 +87,7 @@ line.startswith('P') #true
 #phrasing and extracting
 data = 'From jinwei.zhang18@imperial.ac.uk Sat Jan 5 150'
 atpos = data.find('@')  # 19
-addpos = data.find(' ',atpos) #find the space after stpos which is 34
+addpos = data.find(' ',atpos) #find the space after atpos which is 34
 
 host = data[atpos+1:addpos]
 
