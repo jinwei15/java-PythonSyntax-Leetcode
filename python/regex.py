@@ -83,3 +83,14 @@ y = re.findall('^F.+?:',x) # it will find the non-greedy string match
 
 x= 'From jinweizhang@gmail.com asdf bbb'
 y=re.findall('\S+@\S+',x) # this must be greedy otherwise it will be g@g
+
+
+x= 'From jinweizhang@gmail.com asdf bbb'
+y=re.findall('From (\S+@\S+)',x) # ()  this is the thing I want to extract
+
+# extract  the  host : method_1:find the @ find the space behind cut
+# method_2: split the whole line get the whords[1] split by @ get the result[1]
+y = re.findall('@([^ ]*)') # [^ ] not everything but a space
+
+
+# \$ means the real dollor sign
