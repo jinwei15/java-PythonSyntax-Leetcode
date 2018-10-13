@@ -41,12 +41,32 @@ for line in hand:
 
 # -------------------------------------------------------------------------------------------------
 # . means any character
-# * means zero or more
+# * means zero or more (many times)
+# + means zero or more. (once or more times)
+# \S means non-white space charater
 
 # ^X.*:  it means I am looking a word that start with X follow by any number of characters follow by colum
-
-
 """
 X-adfhjkah:
 X-safdf$$$:
 """
+# ^X-\S+:  I am looking a string that 1:start with X    2:follow by dash  3. follow by any non-white space
+# characters one or more time. 4. follow by a colum
+
+"""
+X-asdf:   right
+X-palce jj: wrong
+"""
+
+
+# -------------------------------------------------------------------------------------------------
+# matching and extracting Data
+# [ ] description of one character can have list range digits
+# [0-9] + one or more digit
+
+x = 'My 2 faverate number are 14 and 89'
+y= re.findall('[0-9]+',x) # return list
+print(y) # ['2' '14' '89']
+
+y=re.findall('[AEIOU]+',x) # at least one A or E or ...
+print(y) # empty list
