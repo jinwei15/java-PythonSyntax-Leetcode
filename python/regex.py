@@ -70,3 +70,13 @@ print(y) # ['2' '14' '89']
 
 y=re.findall('[AEIOU]+',x) # at least one A or E or ...
 print(y) # empty list
+
+
+# Greedy matching
+x= 'From: using the: characters'
+y = re.findall('^F.+:',x) # it will find the largest string match
+# y = 'From: using the:'
+
+x= 'From: using the: characters'
+y = re.findall('^F.+?:',x) # it will find the non-greedy string match
+# y = 'From:'
