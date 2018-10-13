@@ -80,3 +80,6 @@ y = re.findall('^F.+:',x) # it will find the largest string match
 x= 'From: using the: characters'
 y = re.findall('^F.+?:',x) # it will find the non-greedy string match
 # y = 'From:'
+
+x= 'From jinweizhang@gmail.com asdf bbb'
+y=re.findall('\S+@\S+',x) # this must be greedy otherwise it will be g@g
