@@ -1,3 +1,13 @@
+#this is important 
+
+
+#when ever you want to renew a new array you use: 
+
+newlist =[[None]*13]*13  #this is a 13*13 list 
+newlsit = [[0]*20 ]*20
+import numpy
+ numpy.zeros((5, 5))
+
 # list can have different thing inside
 >>> cheeses = ['Cheddar', 'Edam', 'Gouda']
 >>> numbers = [17, 123]

@@ -19,7 +19,7 @@ while index < len(fruit):
 
 ######################
 fruit = 'banana'
-for letters in fruit
+for letters in fruit:
     print (letter)
 
 # slicing string (cut before this chunk)
