@@ -5,7 +5,7 @@ lst.append(183)   #key is 0,1,2,3  value is 21,183...
 
 ddd = dict()
 ddd['age'] = 21
-ddd['course'] = 182
+ddd['c##ourse'] = 182
 print(ddd)    #key is age,course..  value is 21,183...
 
 eng2sp = {'one': 'uno', 'two': 'dos', 'three': 'tres'}
