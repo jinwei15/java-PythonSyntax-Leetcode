@@ -1,5 +1,8 @@
 #this is important 
-
+matrix = 5*[5*[0]]
+# Creates a list containing 5 lists, each of 8 items, all set to 0
+w, h = 8, 5;
+Matrix = [[0 for x in range(w)] for y in range(h)] 
 
 #when ever you want to renew a new array you use: 
 
