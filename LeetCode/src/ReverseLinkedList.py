@@ -10,36 +10,32 @@ class Solution:
         :type head: ListNode
         :rtype: ListNode
         """
-"""
-        #put everying in a list
-        numberList = list()
-        while (head != None):
-            numberList.append(head.val)
-            head = head.next
+#         #put everying in a list
+#         numberList = list()
+#         while (head != None):
+#             numberList.append(head.val)
+#             head = head.next
         
-        # reverse the list
-        newList = numberList[::-1]
+#         # reverse the list
+#         newList = numberList[::-1]
         
-        if len(newList) == 0: return None
-        #create a new List node.
-        newhead = ListNode(newList[0])
-        current = newhead
-        for i in range(1,len(newList)):
+#         if len(newList) == 0: return None
+#         #create a new List node.
+#         newhead = ListNode(newList[0])
+#         current = newhead
+#         for i in range(1,len(newList)):
             
-            node = ListNode(newList[i])
-            current.next = node
-            current = current.next
+#             node = ListNode(newList[i])
+#             current.next = node
+#             current = current.next
         
-        return newhead
-    
-    
-  """
-
-	#ther msut be a better way.
-	          
-            
-            
-            
-            
-            
-        
+#         return newhead
+        prev = None
+        curr = head
+        while(curr != None):
+            nextTemp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = nextTemp
+        return prev
+   
