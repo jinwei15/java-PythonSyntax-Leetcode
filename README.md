@@ -9,6 +9,9 @@ basic java syntax that I wrote in Y2 and some leetcode solution
 
 ## String:
     482. License Key Formatting (string addition, replace(deletion))
+    
+## Math:
+    412. Fizz Buzz
 
 
 
