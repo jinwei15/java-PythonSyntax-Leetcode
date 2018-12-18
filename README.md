@@ -16,6 +16,9 @@ basic java syntax that I wrote in Y2 and some leetcode solution
 ## Math:
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
+## DFS/BFS:
+   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)   
+
 
 
 
