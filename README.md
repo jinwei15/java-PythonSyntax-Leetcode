@@ -14,8 +14,8 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 
 ## LinkedList:
-   [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-   [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+   [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
+   [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
 
 ## String manipulation (addition, replace(deletion)):
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
