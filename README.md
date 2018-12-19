@@ -20,8 +20,12 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
+## Stack:
+   [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
+
 ## String manipulation (addition, replace(deletion)):
-   [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+   [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
+   [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
     
 ## Math:
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
