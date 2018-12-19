@@ -1,3 +1,5 @@
+# this can be solved using counter counter is a way better solution but I was so stupid and did not relise that 
+
 class Solution:
     def subdomainVisits(self, cpdomains):
         """
