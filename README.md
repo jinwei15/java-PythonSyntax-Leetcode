@@ -10,6 +10,9 @@ basic java syntax that I wrote in Y2 and some leetcode solution
 
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
+## Dictionary/Counter:
+   [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+
 ## String manipulation (addition, replace(deletion)):
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
     
