@@ -21,6 +21,7 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Stack:
+   [716. Max Stack](https://leetcode.com/problems/max-stack/)  
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
 ## String manipulation (addition, replace(deletion)):
