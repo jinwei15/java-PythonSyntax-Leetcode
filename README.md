@@ -8,7 +8,8 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  
 
-## Dictionary/Counter:
+## HashTable/Counter:
+   [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)different version of Anagram   
    [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 
 ## LinkedList:
