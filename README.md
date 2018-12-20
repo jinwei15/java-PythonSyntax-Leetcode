@@ -40,7 +40,7 @@ basic java syntax that I wrote in Y2 and some leetcode solution
 ## Dynamic Programming:
    [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)    
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
-   [198. House Robber](https://leetcode.com/problems/house-robber/)  
+   [198. House Robber](https://leetcode.com/problems/house-robber/) &nbsp; current optimal = max(previousprevious opt + now, previous opt)  
 
 
 
