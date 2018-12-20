@@ -29,8 +29,9 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
     
 ## Math:
-   [258. Add Digits](https://leetcode.com/problems/add-digits/)
-   [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+   [202. Happy Number](https://leetcode.com/problems/happy-number/)  
+   [258. Add Digits](https://leetcode.com/problems/add-digits/)    
+   [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
 
 ## DFS/BFS:
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)   
