@@ -6,7 +6,7 @@ basic java syntax that I wrote in Y2 and some leetcode solution
 ## Array:
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
-   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  
+   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index 
 
 ## HashTable/Counter:
    [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) &nbsp; different version of Anagram   
