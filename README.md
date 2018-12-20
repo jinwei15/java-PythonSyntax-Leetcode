@@ -35,6 +35,10 @@ basic java syntax that I wrote in Y2 and some leetcode solution
 ## DFS/BFS:
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)   
 
+## Dynamic Programming:
+   [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)    
+   [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+   [198. House Robber](https://leetcode.com/problems/house-robber/)  
 
 
 
