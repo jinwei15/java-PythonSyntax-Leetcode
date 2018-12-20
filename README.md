@@ -35,7 +35,8 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
 
 ## DFS/BFS:
-   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)   
+   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
+   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) DFS but using a new function everytime, classic! 
 
 ## Dynamic Programming:
    [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)    
