@@ -42,7 +42,8 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
    [198. House Robber](https://leetcode.com/problems/house-robber/) &nbsp; current optimal = max(previousprevious opt + now, previous opt)  
 
-
+## Bash
+   [195. Tenth Line](https://leetcode.com/problems/tenth-line/) &nbsp; print 10th line of a .txt  
 
 
 
