@@ -9,7 +9,7 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  
 
 ## HashTable/Counter:
-   [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) &nbsp different version of Anagram   
+   [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) &nbsp; different version of Anagram   
    [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 
 ## LinkedList:
