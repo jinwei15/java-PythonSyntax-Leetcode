@@ -37,6 +37,7 @@ class MaxStack:
         """
         :rtype: int
         """
+
         return self.stack[-1][1]  
         
 
@@ -50,7 +51,10 @@ class MaxStack:
             b.append(self.pop())
 
         self.pop()
-        map(self.push, reversed(b))
+        
+        result = map(self.push, reversed(b))
+        print(list(result))
+        # print(self.stack)
         return returnVal
         
 
@@ -62,6 +66,3 @@ class MaxStack:
 # param_3 = obj.top()
 # param_4 = obj.peekMax()
 # param_5 = obj.popMax()
-
-
-# this obviousle is wrong need to be rewrite
