@@ -1,7 +1,7 @@
 # javaSyntax
 basic java syntax that I wrote in Y2 and some leetcode solution 
 
-# building table for revision:
+# building table for revision: (Incompleted)
 
 ## Array:
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
