@@ -20,13 +20,16 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
+   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome   
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Stack:
-   [716. Max Stack](https://leetcode.com/problems/max-stack/)  
+   [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
 ## String manipulation (addition, replace(deletion)):
+   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp; classic palindrome number but used a werid amazing number reverse method. 
+   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed) 
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
     
