@@ -28,8 +28,8 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
 ## String manipulation (addition, replace(deletion)):
-   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp; classic palindrome number but used a werid amazing number reverse method. 
-   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed) 
+   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp; classic palindrome number but used a werid amazing number reverse method.   
+   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed)  
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
     
