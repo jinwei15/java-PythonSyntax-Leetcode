@@ -33,6 +33,7 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [202. Happy Number](https://leetcode.com/problems/happy-number/)  
    [258. Add Digits](https://leetcode.com/problems/add-digits/)    
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
+   [204. Count Primes](https://leetcode.com/problems/count-primes/)  &nbsp; isPrime() find common facter of n from 0 to sqrt(n). Convert it to DP!  
 
 ## DFS/BFS:
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
