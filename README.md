@@ -25,6 +25,7 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Stack:
+   [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy
    [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
