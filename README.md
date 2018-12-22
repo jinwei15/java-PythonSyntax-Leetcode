@@ -20,12 +20,12 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp; classic linked list reverse  
-   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome
+   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome  
    [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) &nbsp; 1.reverse and reverse back. 2.using stack    
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Stack:
-   [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy
+   [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy  
    [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
