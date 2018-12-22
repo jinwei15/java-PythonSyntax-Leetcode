@@ -10,6 +10,7 @@ Question + link + most intuitive thought about this question. You can find the u
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index 
 
 ## HashTable/Counter:
+   [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
    [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp; classic slicing window problem !two hashtables + dictionary deletion  
    [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) &nbsp; different version of Anagram   
    [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
