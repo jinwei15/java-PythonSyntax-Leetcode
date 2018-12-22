@@ -14,13 +14,14 @@ basic java syntax that I wrote in Y2 and some leetcode solution
    [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 
 ## LinkedList:
-   [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
+   [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)&nbsp; classic linkedlist plus Math plus  
    [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
    [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
    [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
-   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
-   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome   
+   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp; classic linked list reverse  
+   [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome
+   [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) &nbsp; 1.reverse and reverse back. 2.using stack    
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Stack:
