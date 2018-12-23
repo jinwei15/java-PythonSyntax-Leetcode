@@ -40,6 +40,7 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Math
    [202. Happy Number](https://leetcode.com/problems/happy-number/) &nbsp;loop + hashMap check existance. easy.   
    [204. Count Primes](https://leetcode.com/problems/count-primes/)  &nbsp; isPrime() find common facter of n from 0 to sqrt(n). Convert it to DP!    
+   [231. Power of Two](https://leetcode.com/problems/power-of-two/) &nbsp; math problem, can be solved as bit manipulation as well. (bit count)  
    [258. Add Digits](https://leetcode.com/problems/add-digits/)    
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
