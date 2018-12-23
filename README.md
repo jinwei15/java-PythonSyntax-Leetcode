@@ -55,6 +55,9 @@ Question + link + most intuitive thought about this question. You can find the a
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
    [198. House Robber](https://leetcode.com/problems/house-robber/) &nbsp; current optimal = max(previousprevious opt + now, previous opt)  
 
+## Min Max Head
+   [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)&nbsp; this can literally done by sorting but MinMax heap is better (dont understand)  
+
 ## Bash
    [195. Tenth Line](https://leetcode.com/problems/tenth-line/) &nbsp; print 10th line of a .txt  
 
