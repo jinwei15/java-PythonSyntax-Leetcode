@@ -12,6 +12,7 @@ Question + link + most intuitive thought about this question. You can find the a
 ## HashTable/Counter:
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
    [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp; classic slicing window problem !two hashtables + dictionary deletion  
+   [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) &nbsp; I use two arrays one check against two. Two check against one.  
    [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) &nbsp; different version of Anagram   
    [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)  
    [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) &nbsp; very easy hashMap   
