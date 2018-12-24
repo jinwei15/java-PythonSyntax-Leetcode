@@ -7,7 +7,8 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Array:
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
-   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index 
+   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index  
+   [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
 
 ## HashTable/Counter:
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
