@@ -9,7 +9,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index  
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
-
+   [two sum close](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html) Lintcode Amazon OA2   
 ## HashTable/Counter:
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
@@ -52,7 +52,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
 
 ## DFS/BFS:
-
+   [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html) lintcode Amazon OA2   
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) DFS but using a new function everytime, classic! 
 
