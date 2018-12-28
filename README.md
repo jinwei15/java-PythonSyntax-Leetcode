@@ -11,6 +11,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
    [two sum close](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode Amazon OA2   
 ## HashTable/Counter:
+   [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
    [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&nbsp; same as two sum, but not good enough   
