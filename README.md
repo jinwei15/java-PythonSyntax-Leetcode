@@ -58,7 +58,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) DFS but using a new function everytime, classic! 
 
 ## Dynamic Programming:
-   [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)   
+   [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2    
    [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)&nbsp; classic DP    
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
    [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) very hard DP backwords DP.   
