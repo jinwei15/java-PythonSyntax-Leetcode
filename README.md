@@ -9,9 +9,10 @@ Question + link + most intuitive thought about this question. You can find the a
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index  
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
-   [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2   two
+   [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
+        
 ## HashTable/Counter:
-   [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2   
+   [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2  NumOfSubstringwithExactKDistinctCharacters.py
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
    [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&nbsp; same as two sum, but not good enough   
@@ -53,12 +54,12 @@ Question + link + most intuitive thought about this question. You can find the a
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
 
 ## DFS/BFS:
-   [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html) lintcode Amazon OA2   
+   [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html) lintcode Amazon OA2 SubtreewithMaximumAverage.py   
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) DFS but using a new function everytime, classic! 
 
 ## Dynamic Programming:
-   [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2    
+   [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2 MaximumMinimumPath.py   
    [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)&nbsp; classic DP    
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
    [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) very hard DP backwords DP.   
