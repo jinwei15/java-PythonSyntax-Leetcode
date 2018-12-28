@@ -52,12 +52,15 @@ Question + link + most intuitive thought about this question. You can find the a
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
 
 ## DFS/BFS:
+
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) DFS but using a new function everytime, classic! 
 
 ## Dynamic Programming:
+   [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)   
    [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)&nbsp; classic DP    
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+   [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) very hard DP backwords DP.   
    [198. House Robber](https://leetcode.com/problems/house-robber/) &nbsp; current optimal = max(previousprevious opt + now, previous opt)  
 
 ## Min Max Head
