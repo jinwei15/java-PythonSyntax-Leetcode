@@ -9,7 +9,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index  
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
-   [two sum close](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode Amazon OA2   
+   [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2   two
 ## HashTable/Counter:
    [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2   
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
