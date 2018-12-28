@@ -38,6 +38,7 @@ class Solution2:
             return
         if i == row - 1 and j == col -1:
             min_val = min(min_val, matrix[i][j])
+
             max_val = max(max_val, min_val)
             return
 
@@ -56,4 +57,47 @@ col = 0
 bb = Solution2()
 result = bb.findMaxMin([[8, 4, 7],[6, 5, 9]])
 print(result)
+
+
+class Solution3:
+
+
+    def findMaxMin(self, matrix):
+
+        self.max_val = -sys.maxsize - 1
+        self.row = len(matrix)
+        self.col = len(matrix[0])
+        min_val = sys.maxsize
+
+        self.dfs(matrix, min_val, 0, 0)
+
+        return self.max_val
+
+    def dfs(self, matrix, min_val, i, j):
+
+
+        if i >= self.row or j >= self.col:
+            return
+        if i == self.row - 1 and j == self.col -1:
+            min_val = min(min_val, matrix[i][j])
+            self.max_val = max(self.max_val, min_val)
+            return
+
+        min_val = min(min_val, matrix[i][j])
+        self.dfs(matrix, min_val, i, j + 1)
+        self.dfs(matrix, min_val, i + 1, j)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -27,3 +27,35 @@
 # 当遍历完整棵树的时候，result里记录的就是拥有最大average的子树的信息。
 
 
+# ..maximum average subtree，这个tree是N-ary tree。
+# 求每个node以及其所有后代的value平均值，返回平均值最大的node
+import sys
+class Solution:
+    def mas (self, root):
+        if root is None:
+            return None
+
+        self.max_average = -sys.maxsize
+        self.node = None
+        self.find_max_average(root)
+
+        return self.node
+
+    def find_max_average(self, root):
+        if len(root.children) == 0:
+            if root.val > self.max_average:
+                self.max_average = root.val
+                self.node = root
+            return root.val, 1
+
+        count, sum = 1, root.val
+        for child in root.children:
+            c_count, c_sum = self.find_max_average(child)
+            count += c_count
+            sum += c_sum
+
+        if sum / count > self.max_average:
+            self.max_average = sum / count
+            self.node = root
+
+        return sum, count

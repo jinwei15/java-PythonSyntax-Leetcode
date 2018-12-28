@@ -24,26 +24,26 @@
 
 import sys
 class Solution:
-    def twoSumClose(self, arr, target):
-        """
-
-        :param arr: arr:list,
-        :param target:  target: integer
-        :return: difference between the sum of the two integers and the target.
-        """
-        a = 0
-
+    # 选两部电影，电影时间总和小于飞行时间 - 30，
     def twoSumCloest(self, durations, k):
+        """
+
+        :param durations: movie list,
+        :param k:  integer flight time
+        :return: [,]
+        """
 
         if durations is None or len(durations) < 2:
             return [-1, -1]
 
         duration_list = []
+        index = 0
         for duration in durations:
             duration_list.append((duration, index))
-        duration_list.sort()
+            index += 1
+        duration_list.sort(key=lambda x: x[0])
 
-        max_sum = -sys.maxsize
+        max_sum = -sys.maxsize - 1
         res = [-1, -1]
         start, end = 0, len(duration_list) - 1
         target = k - 30
@@ -54,7 +54,7 @@ class Solution:
 
             if curr_sum > target:
                 end -= 1
-            elif curr_sum > max_sum:
+            elif curr_sum > max_sum and curr_sum <= target:
                 max_sum = curr_sum
                 res[0] = min(start_idx, end_idx)
                 res[1] = max(start_idx, end_idx)
@@ -63,5 +63,26 @@ class Solution:
                 start += 1
 
         return res
+
+    # two sum 题型 hashmap one pass 写法
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        mapList = dict()
+        for i in range(len(nums)):
+            complement = target - nums[i]
+            if mapList.get(complement) == None:
+                mapList[nums[i]] = i
+            else:
+                return [mapList.get(complement), i]
+
+        return None
+
+
+bb = Solution()
+bb.twoSumCloest()
 
 
