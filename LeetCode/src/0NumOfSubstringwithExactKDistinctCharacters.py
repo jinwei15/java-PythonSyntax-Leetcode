@@ -41,16 +41,16 @@ class Solution:
 
 # two for loop. with a break there is no difference with slicing windows
 class Solution2:
-    def findSubstring(self, str, k):
-        if str is None or len(str) == 0:
+    def findSubstring(self, stri, k):
+        if stri is None or len(stri) == 0:
             return 0
 
         checkTable = dict()
         resultNum = 0
-        for i in range(len(str)):
+        for i in range(len(stri)):
             checkTable.clear()
-            for j in range(i, len(str)):
-                checkTable[str[j]] = checkTable.get(str[j], 0) + 1
+            for j in range(i, len(stri)):
+                checkTable[stri[j]] = checkTable.get(stri[j], 0) + 1
                 if len(checkTable) == k:
                     resultNum += 1
                     print(checkTable)
