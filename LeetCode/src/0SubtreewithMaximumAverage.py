@@ -30,12 +30,20 @@
 # ..maximum average subtree，这个tree是N-ary tree。
 # 求每个node以及其所有后代的value平均值，返回平均值最大的node
 import sys
+
+
+# Definition for a Node.
+class Node:
+    def __init__(self, val, children):
+        self.val = val
+        self.children = children
+
 class Solution:
     def mas (self, root):
         if root is None:
             return None
 
-        self.max_average = -sys.maxsize
+        self.max_average = -sys.maxsize - 1
         self.node = None
         self.find_max_average(root)
 
@@ -43,12 +51,12 @@ class Solution:
 
     def find_max_average(self, root):
         if len(root.children) == 0:
-            if root.val > self.max_average:
-                self.max_average = root.val
-                self.node = root
-            return root.val, 1
+            # if root.val > self.max_average:
+            #     self.max_average = root.val
+            #     self.node = root
+            return 1, root.val
 
-        count, sum = 1, root.val
+        count, sum = 0, 0
         for child in root.children:
             c_count, c_sum = self.find_max_average(child)
             count += c_count
@@ -59,3 +67,87 @@ class Solution:
             self.node = root
 
         return sum, count
+
+
+
+
+bb = Solution()
+## case 1:
+# leaf1 = [Node(3, []), Node(4, [])]
+# leaf2 = [Node(6, []), Node(7, [])]
+# leaf3 = [Node(1, []), Node(10, [])]
+# c1 = Node(1, leaf1)
+# c2 = Node(2, leaf2)
+# c3 = Node(3, leaf3)
+# root = Node(4, [c1, c2, c3])
+
+
+## case2
+root = Node(4,[])
+result = bb.mas(root)
+
+print(result.val)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+#
+#
+# import sys
+#
+#
+# # Definition for a Node.
+# class Node:
+#     def __init__(self, val, children):
+#         self.val = val
+#         self.children = children
+#
+# class Solution:
+#     def mas (self, root):
+#         if root is None:
+#             return None
+#
+#         self.max_average = -sys.maxsize
+#         self.node = None
+#         self.find_max_average(root)
+#
+#         return self.node
+#
+#     def find_max_average(self, root):
+#         if len(root.children) == 0:
+#             if root.val > self.max_average:
+#                 self.max_average = root.val
+#                 self.node = root
+#             return root.val, 1
+#
+#         count, sum = 1, root.val
+#         for child in root.children:
+#             c_count, c_sum = self.find_max_average(child)
+#             count += c_count
+#             sum += c_sum
+#
+#         if sum / count > self.max_average:
+#             self.max_average = sum / count
+#             self.node = root
+#
+#         return sum, count
