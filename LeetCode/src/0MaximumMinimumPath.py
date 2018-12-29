@@ -54,9 +54,7 @@ col = 0
 
 
 
-bb = Solution2()
-result = bb.findMaxMin([[8, 4, 7],[6, 5, 9]])
-print(result)
+
 
 
 class Solution3:
@@ -95,7 +93,9 @@ class Solution3:
 
 
 
-
+bb = Solution3()
+result = bb.findMaxMin([[8, 4, 7],[6, 5, 9]])
+print(result)
 
 
 
