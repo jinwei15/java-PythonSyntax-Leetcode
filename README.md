@@ -54,11 +54,11 @@ Question + link + most intuitive thought about this question. You can find the a
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
 
 ## DFS/BFS:
-   [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html) lintcode Amazon OA2 SubtreewithMaximumAverage.py   
+   [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html)&nbsp; lintcode Amazon OA2 SubtreewithMaximumAverage.py   
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
-   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) DFS but using a new function everytime, classic!   
-   [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) DFS, classic one   
-   [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)easy DFS BFS using back tracking.    
+   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)&nbsp; DFS but using a new function everytime, classic!   
+   [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)&nbsp; DFS, classic one   
+   [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)&nbsp; easy DFS BFS using back tracking.    
 
 ## Dynamic Programming:
    [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2 MaximumMinimumPath.py   
