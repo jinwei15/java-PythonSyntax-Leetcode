@@ -42,6 +42,9 @@ Question + link + most intuitive thought about this question. You can find the a
    [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
+## Queue:
+   [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)&nbsp; Queue implementation dequeue python.   
+
 ## String manipulation (addition, replace(deletion)):
    [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp; classic palindrome number but used a werid amazing number reverse method.   
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed)  
