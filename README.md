@@ -81,5 +81,6 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Bash
    [195. Tenth Line](https://leetcode.com/problems/tenth-line/) &nbsp; print 10th line of a .txt  
 
-
+## Bit  
+   [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) &nbsp; reverse bits and convert to integer.   
 
