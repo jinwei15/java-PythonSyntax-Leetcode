@@ -50,6 +50,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
 ## Queue:
+   [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) &nbsp; using two stack to implement this   
    [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)&nbsp; Queue implementation dequeue python.   
 
 ## Math
