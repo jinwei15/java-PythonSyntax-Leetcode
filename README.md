@@ -7,11 +7,17 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Array & String:
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
-   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index  
-   [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String   
+   [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index    
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
-        
+
+## String manipulation (addition, replace(deletion)):
+   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp; classic palindrome number but used a werid amazing number reverse method.   
+   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed)  
+   [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
+   [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
+   [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
+    
 ## HashTable/Counter:
    [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2  NumOfSubstringwithExactKDistinctCharacters.py   
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
@@ -46,12 +52,6 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Queue:
    [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)&nbsp; Queue implementation dequeue python.   
 
-## String manipulation (addition, replace(deletion)):
-   [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp; classic palindrome number but used a werid amazing number reverse method.   
-   [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed)  
-   [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
-   [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
-    
 ## Math
    [202. Happy Number](https://leetcode.com/problems/happy-number/) &nbsp;loop + hashMap check existance. easy.   
    [204. Count Primes](https://leetcode.com/problems/count-primes/)  &nbsp; isPrime() find common facter of n from 0 to sqrt(n). Convert it to DP!    
