@@ -16,6 +16,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp; classic Palindrome number (two pointer/reversed)  
    [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
+   [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)&nbsp; two pointer solution. s==s[::-1].   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
     
 ## HashTable/Counter:
