@@ -66,6 +66,7 @@ Question + link + most intuitive thought about this question. You can find the a
 ## DFS/BFS:
    [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html)&nbsp; lintcode Amazon OA2 SubtreewithMaximumAverage.py   
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
+   [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)&nbsp;BFS/DFS all can solved this   
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)&nbsp; DFS but using a new function everytime, classic!   
    [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)&nbsp; DFS, classic one   
    [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)&nbsp; easy DFS BFS using back tracking.    
