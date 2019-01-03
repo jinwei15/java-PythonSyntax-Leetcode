@@ -27,6 +27,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
    [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&nbsp; same as two sum, but not good enough   
    [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) &nbsp; I use two arrays one check against two. Two check against one.  
+   [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)&nbsp; easy hashMap    
    [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)&nbsp; easy classic hashMap  
    [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) classic hashtable !   
    [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp; classic slicing window problem !two hashtables + dictionary deletion  
