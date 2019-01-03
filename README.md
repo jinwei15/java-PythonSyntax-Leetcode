@@ -27,7 +27,9 @@ Question + link + most intuitive thought about this question. You can find the a
    [170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)&nbsp; same as two sum, but not good enough   
    [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) &nbsp; I use two arrays one check against two. Two check against one.  
    [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)&nbsp; easy classic hashMap  
+   [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) classic hashtable !   
    [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp; classic slicing window problem !two hashtables + dictionary deletion  
+   [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) &nbsp; easy hashtable classic bloomberg interview.   
    [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) &nbsp; minLength of subarray with maxdegree.3 hashMaps    
    [706. Design HashMap](https://leetcode.com/problems/design-hashmap/)&nbsp; implementation of hashmap, easy   
    [760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) &nbsp; different version of Anagram   
