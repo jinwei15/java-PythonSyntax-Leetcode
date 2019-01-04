@@ -91,4 +91,4 @@ Question + link + most intuitive thought about this question. You can find the a
 
 ## Bit  
    [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) &nbsp; reverse bits and convert to integer.   
-
+   [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)&nbsp; hamming weight   
