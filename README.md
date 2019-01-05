@@ -22,6 +22,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [520. Detect Capital](https://leetcode.com/problems/detect-capital/)&nbsp; substring    
    [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)&nbsp; two pointer solution. s==s[::-1].   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
+   [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)&nbsp;two pointer sol, string is immutable. convert to list then join.   
     
 ## HashTable/Counter:
    [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2  NumOfSubstringwithExactKDistinctCharacters.py   
