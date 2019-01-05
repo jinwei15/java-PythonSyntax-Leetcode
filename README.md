@@ -63,6 +63,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)&nbsp; Queue implementation dequeue python.   
 
 ## Math
+   [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)&nbsp; math same as 171, base 26 num.   
    [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)&nbsp; ASCII num + math   
    [202. Happy Number](https://leetcode.com/problems/happy-number/) &nbsp;loop + hashMap check existance. easy.   
    [204. Count Primes](https://leetcode.com/problems/count-primes/)  &nbsp; isPrime() find common facter of n from 0 to sqrt(n). Convert it to DP!    
