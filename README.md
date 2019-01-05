@@ -10,6 +10,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index    
    [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)&nbsp; easy 2D array   
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
+   [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)&nbsp;2D array that all diagonal are the same    
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
 
 ## String manipulation (addition, replace(deletion)):
