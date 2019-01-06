@@ -2,7 +2,7 @@
 basic java syntax that I wrote in Y2 and some leetcode solution 
 
 # building table for revision: (Incompleted)
-Question + link + most intuitive thought about this question. You can find the answer under [LeetCode/src](https://github.com/jinwei14/java-PythonSyntax-Leetcode/tree/master/LeetCode/src)
+Question + link + most intuitive thought about this question. You can find the answer under [LeetCode/src](https://github.com/jinwei14/java-PythonSyntax-Leetcode/tree/master/LeetCode/src) 面试都是有套路的，量的积累引起质的飞跃
 
 ## Array 
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
