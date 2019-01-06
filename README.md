@@ -7,11 +7,12 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Array 
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
+   [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)&nbsp; given word list find shorest dis between two words. one pass. need to define the shortest to max len first   
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index    
    [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)&nbsp; easy 2D array   
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)&nbsp; single scan easy    
    [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)&nbsp;find the biggest product of 3 nums in array   
-   [704. Binary Search](https://leetcode.com/problems/binary-search/) &nbsp; binary search in array implementation    
+   [704. Binary Search](https://leetcode.com/problems/binary-search/) &nbsp; binary search in array implementation right/left = mid +- 1    
    [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)&nbsp;2D array that all diagonal are the same    
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
 
