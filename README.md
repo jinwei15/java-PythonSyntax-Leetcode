@@ -50,6 +50,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  
    [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
    [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
+   [146. LRU Cache](https://leetcode.com/problems/lru-cache/)&nbsp; LRU linkedlist + hashmap/ dequeue + hashmap. classic    
    [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)&nbsp; using two pointer to solove linkedlist, classic   
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp; classic linked list reverse  
