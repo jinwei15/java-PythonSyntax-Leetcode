@@ -16,6 +16,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)&nbsp;find the biggest product of 3 nums in array   
    [704. Binary Search](https://leetcode.com/problems/binary-search/) &nbsp; binary search in array implementation right/left = mid +- 1    
    [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)&nbsp;2D array that all diagonal are the same    
+   [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)&nbsp; two item basket, find the largest range in array. Slicing window classic   
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
 
 ## String manipulation (addition, replace(deletion)):
