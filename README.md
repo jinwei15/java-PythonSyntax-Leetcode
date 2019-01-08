@@ -94,6 +94,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
    [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) very hard DP backwords DP.   
    [198. House Robber](https://leetcode.com/problems/house-robber/) &nbsp; current optimal = max(previousprevious opt + now, previous opt)    
+   [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)&nbsp; Fibonacci number    
    [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)&nbsp; simple DB by store the previous result   
 
 ## Min Max Heap
