@@ -89,6 +89,7 @@ Question + link + most intuitive thought about this question. You can find the a
 
 ## Dynamic Programming:
    [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2 MaximumMinimumPath.py   
+   [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)&nbsp; given arrry of num represent of height, maximum trapped water, Brute force-> DP-> stack.   
    [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)&nbsp; classic DP    
    [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
    [174. Dungeon Game](https://leetcode.com/problems/dungeon-game/) very hard DP backwords DP.   
