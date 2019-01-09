@@ -79,7 +79,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [263. Ugly Number](https://leetcode.com/problems/ugly-number/) &nbsp; easy math    
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
-   [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)&nbsp; addention to notes. x^i + y^j < bound    
+   [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)&nbsp; attention to notes. x^i + y^j < bound    
 
 ## DFS/BFS:
    [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html)&nbsp; lintcode Amazon OA2 SubtreewithMaximumAverage.py   
