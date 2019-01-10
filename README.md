@@ -37,6 +37,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) &nbsp; I use two arrays one check against two. Two check against one.  
    [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)&nbsp; easy hashMap    
    [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) &nbsp;hashtable + two pointer easy   
+   [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)&nbsp; a word turn to palindrome after permu    
    [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)&nbsp; easy classic hashMap  
    [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) classic hashtable !   
    [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp; classic slicing window problem !two hashtables + dictionary deletion  
