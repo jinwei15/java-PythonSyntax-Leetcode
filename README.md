@@ -82,6 +82,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
    [415. Add Strings](https://leetcode.com/problems/add-strings/) &nbsp; addition bit by bit plus carries   
    [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)&nbsp; sum(left)-x+y = sum(right)-y+x Math   
+   [942. DI String Match](https://leetcode.com/problems/di-string-match/)&nbsp; Brilliant math problem   
    [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)&nbsp; attention to notes. x^i + y^j < bound    
 
 ## DFS/BFS:
