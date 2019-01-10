@@ -17,6 +17,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [704. Binary Search](https://leetcode.com/problems/binary-search/) &nbsp; binary search in array implementation right/left = mid +- 1    
    [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)&nbsp;2D array that all diagonal are the same    
    [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)&nbsp; two item basket, find the largest range in array. Slicing window classic   
+   [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)&nbsp; pool descripted delete X column to make it alway ascending.   
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html)&nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
 
 ## String manipulation (addition, replace(deletion)):
