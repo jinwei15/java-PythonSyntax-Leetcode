@@ -47,6 +47,7 @@
 
 # the above example is wrong!
 
+# dfs
 class Solution:
     
     def dfs(self,grid,r, c):
@@ -86,6 +87,7 @@ class Solution:
 
         return num_islands;
     
+#bfs
 class Solution:
     def numIslands(self, grid: 'List[List[str]]') -> 'int':
         if grid == None or len(grid) == 0:
