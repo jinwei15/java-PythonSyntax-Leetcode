@@ -22,27 +22,35 @@
 #         self.val = x
 #         self.left = None
 #         self.right = None
-from collections import deque
+# from collections import deque
+
+# class Solution:
+#     def buildTree(self, preorder: 'List[int]', inorder: 'List[int]') -> 'TreeNode':
+#         def helper(preorder, inorder):
+#             if not inorder:
+#                 return None
+            
+#             # pick up the first element as a root
+#             root_val = preorder.popleft()
+#             root = TreeNode(root_val)
+
+#             # root splits inorder list
+#             # into left and right subtrees
+#             index = inorder.index(root_val)
+
+#             # recursion 
+#             root.left= helper(preorder, inorder[:index])
+#             root.right = helper(preorder, inorder[index + 1:])
+#             return root
+        
+#         return helper(deque(preorder), inorder)
 
 class Solution:
-    def buildTree(self, preorder: 'List[int]', inorder: 'List[int]') -> 'TreeNode':
-        def helper(preorder, inorder):
-            if not inorder:
-                return None
-            
-            # pick up the first element as a root
-            root_val = preorder.popleft()
-            root = TreeNode(root_val)
-
-            # root splits inorder list
-            # into left and right subtrees
-            index = inorder.index(root_val)
-
-            # recursion 
-            root.left= helper(preorder, inorder[:index])
-            root.right = helper(preorder, inorder[index + 1:])
+    def buildTree(self, preorder, inorder):
+        if inorder:
+            ind = inorder.index(preorder.pop(0))
+            root = TreeNode(inorder[ind])
+            root.left = self.buildTree(preorder, inorder[0:ind])
+            root.right = self.buildTree(preorder, inorder[ind+1:])
             return root
-        
-        return helper(deque(preorder), inorder)
-        
         
