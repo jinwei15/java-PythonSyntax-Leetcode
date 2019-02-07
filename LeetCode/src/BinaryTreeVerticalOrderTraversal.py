@@ -76,3 +76,6 @@ root.right.right = TreeNode(7)
 
 Solution().verticalOrder(root)
 
+import  math
+
+print(math.sqrt(3))
