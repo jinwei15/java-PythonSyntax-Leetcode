@@ -16,7 +16,7 @@
 # Input: [1, 3, 1, 5, 4], k = 0
 # Output: 1
 # Explanation: There is one 0-diff pair in the array, (1, 1).
-
+import collections
 class Solution:
     def findPairs(self, nums, k):
         """
