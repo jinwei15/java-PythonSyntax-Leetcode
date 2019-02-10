@@ -10,24 +10,40 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
-        if headA is None or headB is None:
-            return None
-        
-        currA = headA
-        currB = headB
-        while(currA is not currB):
-            currA = headB if currA == None else currA.next
-            currB = headA if currB == None else currB.next
-#             if currA == None:
-#                 currA = headB
-#             else:
-#                 currA = currA.next
-                
-#             if currB == None:
-#                 currB = headA
-#             else:
-#                 currB = currB.next
-        
-        return currA
-                
-        
+        visited = set()
+
+        while (headA is not headB):
+
+            if headA:
+                if headA in visited:
+                    return headA
+                else:
+                    visited.add(headA)
+                    headA = headA.next
+
+            if headB:
+                if headB in visited:
+                    return headB
+                else:
+                    visited.add(headB)
+                    headB = headB.next
+
+        # If headA and headB are equal
+        return headA
+
+#         def getIntersectionNode(self, headA, headB):
+#         """
+#         :type head1, head1: ListNode
+#         :rtype: ListNode
+#         """
+#         if headA is None or headB is None:
+#             return None
+
+#         currA = headA
+#         currB = headB
+#         while(currA is not currB):
+#             currA = headB if currA == None else currA.next
+#             currB = headA if currB == None else currB.next
+
+#         return currA
+
