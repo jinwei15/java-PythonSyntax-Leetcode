@@ -55,5 +55,15 @@ class Solution:
         
         return max(min1*min2*max1, max1*max2*max3)
                 
-                
+
+word = 'hot'
+i = 1
+d = {}
         
+s = word[:i] + "_" + word[i+1:]
+d[s] = d.get(s, []) + [word]
+
+print(d)
+print(s)
+
+print(['hot'] + ['hot'])
