@@ -8,7 +8,7 @@
 # find k nearest point:
 #  1) Given a list of points, and a point, find the K closest points and return
 #  the list
-#  658. Find K Closest Elements
+#  658. Find K Closest Elements best of luck
 
 import heapq
 class Solution:
