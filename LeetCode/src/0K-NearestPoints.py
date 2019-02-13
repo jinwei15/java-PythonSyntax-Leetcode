@@ -10,12 +10,13 @@
 #  the list
 #  658. Find K Closest Elements best of luck
 
+# amaozn onsite 1,flood fill 2.top K element in the stream 3. implement queue
+
 import heapq
 class Solution:
 
     def findClosestElements(self, alllocations, destination, k):
         """
-
         :param alllocations: [[1,2],[2,2],[8,9]]
         :param destination: [3,2]
         :param k:
