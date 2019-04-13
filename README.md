@@ -65,6 +65,7 @@ Question + link + most intuitive thought about this question. You can find the a
 ## Recursive:
    [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
    ![24](https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG)<!-- .element height="20%" width="20%" -->
+   <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="100px" width="400px">
 
 ## Stack:
    [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy  
