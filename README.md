@@ -63,9 +63,8 @@ Question + link + most intuitive thought about this question. You can find the a
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Recursive:
-   [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
+   [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive &nbsp;&nbsp;&nbsp;
    <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="400px">
-
    [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) &nbsp; TLE using recursion. use iterative approach instead.<img width="400" alt="400" src="https://user-images.githubusercontent.com/26280459/56081115-7e646e00-5e01-11e9-91bd-6857519d9967.PNG">
 
 
