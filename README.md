@@ -62,6 +62,8 @@ Question + link + most intuitive thought about this question. You can find the a
    [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) &nbsp; 1.reverse and reverse back. 2.using stack    
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
+## Recursive:
+   [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
 ## Stack:
    [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy  
    [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
