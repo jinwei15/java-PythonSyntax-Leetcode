@@ -69,7 +69,8 @@ Question + link + most intuitive thought about this question. You can find the a
    
    [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) &nbsp; TLE using recursion. use iterative approach instead.<img height="400px" width="500px" alt="500" src="https://user-images.githubusercontent.com/26280459/56081115-7e646e00-5e01-11e9-91bd-6857519d9967.PNG">
    
-   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).
+   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).<img height="400px" width="500" alt="206" src="https://user-images.githubusercontent.com/26280459/56091506-b0301000-5ea7-11e9-8f9e-b585e2adb8d3.PNG">
+
 
 
 ## Stack:
