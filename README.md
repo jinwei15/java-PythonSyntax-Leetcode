@@ -57,7 +57,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [146. LRU Cache](https://leetcode.com/problems/lru-cache/)&nbsp; LRU linkedlist + hashmap/ dequeue + hashmap. classic    
    [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)&nbsp; using two pointer to solove linkedlist, classic   
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
-   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp; classic linked list reverse  
+   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse(iteratively or recursively)  
    [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome  
    [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) &nbsp; 1.reverse and reverse back. 2.using stack    
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -68,6 +68,8 @@ Question + link + most intuitive thought about this question. You can find the a
    <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="500px">
    
    [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) &nbsp; TLE using recursion. use iterative approach instead.<img height="400px" width="500px" alt="500" src="https://user-images.githubusercontent.com/26280459/56081115-7e646e00-5e01-11e9-91bd-6857519d9967.PNG">
+   
+   [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).
 
 
 ## Stack:
