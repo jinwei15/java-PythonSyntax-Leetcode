@@ -71,7 +71,7 @@ Question + link + most intuitive thought about this question. You can find the a
    
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).<img height="400px" width="500" alt="206" src="https://user-images.githubusercontent.com/26280459/56091506-b0301000-5ea7-11e9-8f9e-b585e2adb8d3.PNG">
 
-   [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img. height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
+   [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img  height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
 
 
 ## Stack:
