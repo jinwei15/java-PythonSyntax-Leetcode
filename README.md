@@ -51,7 +51,8 @@ Question + link + most intuitive thought about this question. You can find the a
 
 ## LinkedList:
    [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)&nbsp; classic linkedlist plus Math plus  
-   [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) &nbsp; keep track a previous node and keep updating prev.next, also recurrsive  
+   [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) &nbsp; keep track a previous node and keep updating prev.next, also recurrsive<img height="400" width="500" alt="21" src="https://user-images.githubusercontent.com/26280459/56148273-d0dc9080-5fa1-11e9-854f-ed77c119e0e6.PNG">
+  
    [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
    [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
    [146. LRU Cache](https://leetcode.com/problems/lru-cache/)&nbsp; LRU linkedlist + hashmap/ dequeue + hashmap. classic    
