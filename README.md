@@ -1,10 +1,10 @@
 # javaSyntax
-basic java syntax that I wrote in Y2 and some leetcode solution 
+basic java syntax that I wrote in Y2 and some leetcode solution
 
 # building table for revision: (Incompleted)
 Question + link + most intuitive thought about this question. You can find the answer under [LeetCode/src](https://github.com/jinwei14/java-PythonSyntax-Leetcode/tree/master/LeetCode/src)   
 
-## Array 
+## Array
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
    [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)&nbsp;[-2,2,3,5]->1 wrong O(n^2) solution. O(n) is so hard.    
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
@@ -29,7 +29,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)&nbsp; two pointer solution. s==s[::-1].   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
    [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)&nbsp;two pointer sol, string is immutable. convert to list then join.   
-    
+
 ## HashTable/Counter:
    [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2  NumOfSubstringwithExactKDistinctCharacters.py   
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
@@ -63,15 +63,17 @@ Question + link + most intuitive thought about this question. You can find the a
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Recursive:
-   [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive 
-   
-   <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="500px">
-   
+   [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
+
+   <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="500px">   
+    
+   [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img  height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
+
    [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) &nbsp; TLE using recursion. use iterative approach instead.<img height="400px" width="500px" alt="500" src="https://user-images.githubusercontent.com/26280459/56081115-7e646e00-5e01-11e9-91bd-6857519d9967.PNG">
-   
+
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).<img height="400px" width="500" alt="206" src="https://user-images.githubusercontent.com/26280459/56091506-b0301000-5ea7-11e9-8f9e-b585e2adb8d3.PNG">
 
-   [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img  height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
+   [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) &nbsp; find the kth element by recussion.
 
 
 ## Stack:
