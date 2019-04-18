@@ -76,7 +76,7 @@ Question + link + most intuitive thought about this question. You can find the a
 
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).<img height="400px" width="500" alt="206" src="https://user-images.githubusercontent.com/26280459/56091506-b0301000-5ea7-11e9-8f9e-b585e2adb8d3.PNG">
 
-   [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) &nbsp; find the kth element by recussion.<img height="400" width="282" alt="779" src="https://user-images.githubusercontent.com/26280459/56198580-16956980-6033-11e9-89c9-8ec19d6f45ec.PNG">
+   [779. K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) &nbsp; find the kth element by recussion.    <img height="400" width="282" alt="779" src="https://user-images.githubusercontent.com/26280459/56198580-16956980-6033-11e9-89c9-8ec19d6f45ec.PNG">
 
 
 
