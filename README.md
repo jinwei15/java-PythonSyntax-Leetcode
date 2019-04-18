@@ -70,6 +70,8 @@ Question + link + most intuitive thought about this question. You can find the a
     
    [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img  height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
 
+   [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) &nbsp; break down and G(n) = G(i-1)G(n-i)    
+
    [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) &nbsp; TLE using recursion. use iterative approach instead.<img height="400px" width="500px" alt="500" src="https://user-images.githubusercontent.com/26280459/56081115-7e646e00-5e01-11e9-91bd-6857519d9967.PNG">
 
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;reverse lnkedlist (iteratively or recursively).<img height="400px" width="500" alt="206" src="https://user-images.githubusercontent.com/26280459/56091506-b0301000-5ea7-11e9-8f9e-b585e2adb8d3.PNG">
