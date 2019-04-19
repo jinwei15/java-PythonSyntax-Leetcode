@@ -64,6 +64,11 @@ Question + link + most intuitive thought about this question. You can find the a
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Recursive:
+Things to know:
+1. The base case: this is the hardest to define. we need to figure out the boundury condition and return type 
+2. the recursion rules: the return type should be the same as base case, some time we need to keep an eye on whether it is a pre-order, post-order or in-order traversal.
+3. write some easy example to run through. It is fine if the first two step are wrong, write some cases to figure which part is wrong.    
+
    [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
 
    <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="500px">   
