@@ -133,6 +133,32 @@ Things to know:
    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)&nbsp; Fibonacci number    
    [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)&nbsp; simple DB by store the previous result   
 
+## Search
+   ```python
+   def binarySearch(nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: int
+    """
+    if len(nums) == 0:
+        return -1
+
+    left, right = 0, len(nums) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        if nums[mid] == target:
+            return mid
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+    # End Condition: left > right
+    return -1
+   ```
+   [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
+
 ## Min Max Heap
    [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)&nbsp; this can literally done by sorting but MinMax heap is better (dont understand)   
    [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)&nbsp; minHeap with len(k) using heapq, pushpop()   
