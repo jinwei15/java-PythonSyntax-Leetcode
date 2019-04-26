@@ -157,6 +157,7 @@ Things to know:
     # End Condition: left > right
     return -1
    ```
+   [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)&nbsp; Binary search      
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
 
 ## Min Max Heap
