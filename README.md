@@ -52,7 +52,7 @@ Question + link + most intuitive thought about this question. You can find the a
 ## LinkedList:
    [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)&nbsp; classic linkedlist plus Math plus  
    [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) &nbsp; keep track a previous node and keep updating prev.next, also recurrsive<img height="400" width="500" alt="21" src="https://user-images.githubusercontent.com/26280459/56148273-d0dc9080-5fa1-11e9-854f-ed77c119e0e6.PNG">
-  
+
    [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
    [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
    [146. LRU Cache](https://leetcode.com/problems/lru-cache/)&nbsp; LRU linkedlist + hashmap/ dequeue + hashmap. classic    
@@ -65,7 +65,7 @@ Question + link + most intuitive thought about this question. You can find the a
 
 ## Recursive:
 Things to know:
-1. The base case: this is the hardest to define. we need to figure out the boundury condition and return type 
+1. The base case: this is the hardest to define. we need to figure out the boundury condition and return type
 2. the recursion rules: the return type should be the same as base case, some time we need to keep an eye on whether it is a pre-order, post-order or in-order traversal.
 3. write some easy example to run through. It is fine if the first two step are wrong, write some cases to figure which part is wrong.     
 [Big O](https://stackoverflow.com/questions/13467674/determining-complexity-for-recursive-functions-big-o-notation)    
@@ -73,7 +73,7 @@ Things to know:
    [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
 
    <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="500px">   
-    
+
    [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img  height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
 
    [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) &nbsp; break down and G(n) = G(i-1)G(n-i)       
@@ -159,6 +159,7 @@ Things to know:
     return -1
    ```
    [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)&nbsp; Binary search      
+   [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) &nbsp; binarySearch case starting point not at index 0, find the starting point First    
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
 
 ## Min Max Heap
