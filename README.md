@@ -64,13 +64,21 @@ Question + link + most intuitive thought about this question. You can find the a
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 ## Recursive:
+Things to know:
+1. The base case: this is the hardest to define. we need to figure out the boundury condition and return type 
+2. the recursion rules: the return type should be the same as base case, some time we need to keep an eye on whether it is a pre-order, post-order or in-order traversal.
+3. write some easy example to run through. It is fine if the first two step are wrong, write some cases to figure which part is wrong.     
+[Big O](https://stackoverflow.com/questions/13467674/determining-complexity-for-recursive-functions-big-o-notation)    
+
    [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) &nbsp; use iterative or recurrsive
 
    <img src="https://user-images.githubusercontent.com/26280459/56078275-2bc58a80-5dde-11e9-9ebe-2dea5bc90852.JPG" alt="24" height="400px" width="500px">   
     
    [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) &nbsp; brute force search TLE, recussive and iteration works<img  height="400px" width="500" alt="50" src="https://user-images.githubusercontent.com/26280459/56144416-3b89ce00-5f9a-11e9-8e52-f5fe14f4eb75.PNG">
 
-   [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) &nbsp; break down and G(n) = G(i-1)G(n-i)    
+   [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) &nbsp; break down and G(n) = G(i-1)G(n-i)       
+   <img height="300" width="200" alt="95" src="https://user-images.githubusercontent.com/26280459/56367090-63707000-61ec-11e9-905d-80b908d5009c.PNG">
+
 
    [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) &nbsp; TLE using recursion. use iterative approach instead.<img height="400px" width="500px" alt="500" src="https://user-images.githubusercontent.com/26280459/56081115-7e646e00-5e01-11e9-91bd-6857519d9967.PNG">
 
@@ -125,6 +133,33 @@ Question + link + most intuitive thought about this question. You can find the a
    [198. House Robber](https://leetcode.com/problems/house-robber/) &nbsp; current optimal = max(previousprevious opt + now, previous opt)    
    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)&nbsp; Fibonacci number    
    [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)&nbsp; simple DB by store the previous result   
+
+## Search
+   ```python
+   def binarySearch(nums, target):
+    """
+    :type nums: List[int]
+    :type target: int
+    :rtype: int
+    """
+    if len(nums) == 0:
+        return -1
+
+    left, right = 0, len(nums) - 1
+    while left <= right:
+        mid = (left + right) // 2
+        if nums[mid] == target:
+            return mid
+        elif nums[mid] < target:
+            left = mid + 1
+        else:
+            right = mid - 1
+
+    # End Condition: left > right
+    return -1
+   ```
+   [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)&nbsp; Binary search      
+   [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
 
 ## Min Max Heap
    [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)&nbsp; this can literally done by sorting but MinMax heap is better (dont understand)   
