@@ -1,5 +1,5 @@
 # Reason
-好无聊啊 刷点题玩玩
+整理一下学习刷题的脑图，好无聊，刷题玩玩。
 
 # building table for revision: (Incompleted)
 Question + link + most intuitive thought about this question. You can find the answer under [LeetCode/src](https://github.com/jinwei14/java-PythonSyntax-Leetcode/tree/master/LeetCode/src)   
