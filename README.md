@@ -118,10 +118,11 @@ Things to know:
    <img height="400" width="500" alt="104" src="https://user-images.githubusercontent.com/26280459/56094776-28a9c780-5ece-11e9-9c94-93fa5b65a728.PNG">
 
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
-   [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)&nbsp;BFS/DFS all can solved this   
-   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)&nbsp; DFS but using a new function everytime, classic!   
-   [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)&nbsp; DFS, classic one   
-   [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)&nbsp; easy DFS BFS using back tracking.    
+   [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) &nbsp;BFS/DFS all can solved this   
+   [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) &nbsp; DFS but using a new function everytime, classic!   
+   [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) &nbsp; easy one recursion question is hard to read.    
+   [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) &nbsp; DFS, classic one   
+   [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) &nbsp; easy DFS BFS using back tracking.    
 
 ## Dynamic Programming:
    [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2 MaximumMinimumPath.py   
