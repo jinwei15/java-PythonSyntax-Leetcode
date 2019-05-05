@@ -162,9 +162,9 @@ Things to know:
    ```
    [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)&nbsp; Binary search      
    [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) &nbsp; binarySearch case starting point not at index 0, find the starting point First    
-   <img width="400" height ="400" alt="33" src="https://user-images.githubusercontent.com/26280459/56864352-5a845900-69b9-11e9-8215-d92510be9ca7.PNG">     
+   <img width="300" height ="300" alt="33" src="https://user-images.githubusercontent.com/26280459/56864352-5a845900-69b9-11e9-8215-d92510be9ca7.PNG">     
    [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) &nbsp; find the peak index in an array. break down cases     
-   <img src="./images/162.PNG" alt="img" height = "300" width="400"/>    
+   <img src="./images/162.PNG" alt="img" height = "300" width="300"/>    
 
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
 
