@@ -171,7 +171,8 @@ Things to know:
    <img src="./images/162.PNG" alt="img" height = "300" width="300"/>    
 
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
-
+   [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) &nbsp; using 35. then expand the array to range K.    
+    
 ## Min Max Heap
    [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)&nbsp; this can literally done by sorting but MinMax heap is better (dont understand)   
    [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)&nbsp; minHeap with len(k) using heapq, pushpop()   
