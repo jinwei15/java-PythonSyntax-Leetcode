@@ -173,7 +173,7 @@ Things to know:
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
    [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) &nbsp; using 35. then expand the array to range K.    
    [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) &nbsp; basic binary search in BST.    
-   <img src="./images/700.PNG" alt="img" height = "159" width="468"/>  
+   <img src="./images/700.png" alt="img" height = "159" width="468"/>  
     
 ## Min Max Heap
    [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)&nbsp; this can literally done by sorting but MinMax heap is better (dont understand)   
