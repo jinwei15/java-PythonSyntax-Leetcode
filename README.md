@@ -169,7 +169,7 @@ Things to know:
    [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) &nbsp;  same as 33(first part)    
    [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) &nbsp; find the peak index in an array. break down cases     
    <img src="./images/162.PNG" alt="img" height = "300" width="300"/>    
-
+   [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) &nbsp; binary search in BST.    
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
    [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) &nbsp; using 35. then expand the array to range K.    
     
