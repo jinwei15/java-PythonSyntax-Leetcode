@@ -162,7 +162,9 @@ Things to know:
    ```
    [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)&nbsp; Binary search      
    [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) &nbsp; binarySearch case starting point not at index 0, find the starting point First    
-   <img width="300" height ="300" alt="33" src="https://user-images.githubusercontent.com/26280459/56864352-5a845900-69b9-11e9-8215-d92510be9ca7.PNG">     
+   <img width="300" height ="300" alt="33" src="https://user-images.githubusercontent.com/26280459/56864352-5a845900-69b9-11e9-8215-d92510be9ca7.PNG">       
+   [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) &nbsp; using binary search to find the first element and expand to find the range     
+   <img src="./images/34.PNG" alt="img" height = "300" width="300"/>    
    [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) &nbsp;  same as 33(first part)    
    [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) &nbsp; find the peak index in an array. break down cases     
    <img src="./images/162.PNG" alt="img" height = "300" width="300"/>    
