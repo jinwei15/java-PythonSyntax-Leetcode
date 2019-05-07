@@ -176,6 +176,7 @@ Things to know:
    [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) &nbsp; basic binary search in BST.    
    <img src="./images/700.png" alt="img" height = "159" width="468"/>      
    [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) &nbsp; The standard solution is to use basic binary search from the given min 0 to max 10000. however we can find the approximate maxIndex by using a while and each time increase by 2^itr the find the mid index from hi/2 to hi this is amazing     
+   [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) &nbsp; nearly same as 35 however this time rightIndex could be outof the length and leftIndex is the next to the target.      
    
     
 ## Min Max Heap
