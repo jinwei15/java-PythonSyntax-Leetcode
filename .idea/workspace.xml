@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/SearchinaSortedArrayofUnknownSize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/ValidPerfectSquare.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -18,10 +18,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="442">
-                <caret line="177" column="3" lean-forward="true" selection-start-line="177" selection-start-column="3" selection-end-line="177" selection-end-column="3" />
+              <first_editor relative-caret-position="355">
+                <caret line="172" column="184" selection-start-line="172" selection-start-column="184" selection-end-line="172" selection-end-column="184" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/ValidPerfectSquare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -31,15 +40,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/ClosestBinarySearchTreeValue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="28" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -130,6 +130,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/ClosestBinarySearchTreeValue.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/SearchinaBinarySearchTree.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/SearchinaSortedArrayofUnknownSize.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/ValidPerfectSquare.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -151,6 +152,11 @@
             <path>
               <item name="java-PythonSyntax-Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-PythonSyntax-Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-PythonSyntax-Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-PythonSyntax-Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -248,12 +254,12 @@
       <workItem from="1556970223749" duration="2894000" />
       <workItem from="1556983477234" duration="487000" />
       <workItem from="1557132558123" duration="4075000" />
-      <workItem from="1557219911936" duration="231000" />
+      <workItem from="1557219911936" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7687000" />
+    <option name="totallyTimeSpent" value="8073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,11 +383,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/ValidPerfectSquare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="177" column="3" lean-forward="true" selection-start-line="177" selection-start-column="3" selection-end-line="177" selection-end-column="3" />
+          <first_editor relative-caret-position="355">
+            <caret line="172" column="184" selection-start-line="172" selection-start-column="184" selection-end-line="172" selection-end-column="184" />
           </first_editor>
           <second_editor />
         </state>
