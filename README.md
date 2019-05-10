@@ -11,7 +11,8 @@ Question + link + most intuitive thought about this question. You can find the a
    [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &nbsp; using two pointer, if small then move bigger if big move to smaller      
    [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) &nbsp; given word list find shorest dis between two words. one pass. need to define the shortest to max len first   
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index    
-   [287!!!!!!]!!!!!!!!!!    
+   [287. Find the Duplicate Number!](https://leetcode.com/problems/find-the-duplicate-number/) &nbsp; floyd circle algorithm !!!!!!!!!!      
+   <img src="./images/287.jpeg" alt="img" height = "400" width="300"/>     
    [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) &nbsp; easy 2D array   
    [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) &nbsp;check which number is missing from 1 to n. brilliant sol by converting index num to neg.      
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/ )&nbsp; single scan easy    
