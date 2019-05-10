@@ -148,7 +148,6 @@ Things to know:
     """
     if len(nums) == 0:
         return -1
-
     left, right = 0, len(nums) - 1
     while left <= right:
         mid = (left + right) // 2
@@ -158,7 +157,6 @@ Things to know:
             left = mid + 1
         else:
             right = mid - 1
-
     # End Condition: left > right
     return -1
    ```
