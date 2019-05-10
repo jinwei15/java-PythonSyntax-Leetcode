@@ -167,8 +167,10 @@ Things to know:
    <img src="./images/34.PNG" alt="img" height = "300" width="300"/>    
    [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) &nbsp; binary search    
    [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) &nbsp;  same as 33(first part)    
+   [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) &nbsp; using the same technique as 153 with more cases.
+    <img src="./images/154.png" alt="img" height = "500" width="700"/>       
    [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) &nbsp; find the peak index in an array. break down cases     
-   <img src="./images/162.PNG" alt="img" height = "300" width="300"/>    
+   <img src="./images/162.PNG" alt="img" height = "300" width=""/>    
    [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) &nbsp; binary search in BST.    
    [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) &nbsp; simply binary search to search from 0 to num//2 judge if a number is a perfect square number.     
    [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) &nbsp; Binary search    
