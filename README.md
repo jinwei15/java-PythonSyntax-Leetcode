@@ -58,7 +58,8 @@ Question + link + most intuitive thought about this question. You can find the a
    [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) &nbsp; keep track a previous node and keep updating prev.next, also recurrsive<img height="400" width="500" alt="21" src="https://user-images.githubusercontent.com/26280459/56148273-d0dc9080-5fa1-11e9-854f-ed77c119e0e6.PNG">
 
    [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  
-   [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  
+   [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  &nbsp; hare and tortoise problem(floyd circle algorithm)   
+   [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) &nbsp; upgrade version of 141 same as question 287 floyd circle algorithm      
    [146. LRU Cache](https://leetcode.com/problems/lru-cache/) &nbsp; LRU linkedlist + hashmap/ dequeue + hashmap. classic    
    [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) &nbsp; using two pointer to solove linkedlist, classic   
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
