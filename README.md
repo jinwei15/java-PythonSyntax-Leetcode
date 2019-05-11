@@ -124,6 +124,7 @@ Things to know:
    [112. Path Sum](https://leetcode.com/problems/path-sum/) &nbsp; pre-order traversal    
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) &nbsp;BFS/DFS all can solved this   
+   [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &nbsp using standard dfs but you need to understand what substree is     
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) &nbsp; DFS but using a new function everytime, classic!   
    [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) &nbsp; easy one recursion question is hard to read.    
    [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) &nbsp; DFS, classic one   
