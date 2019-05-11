@@ -119,10 +119,12 @@ Things to know:
 
 ## DFS/BFS:
    [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html)&nbsp; lintcode Amazon OA2 SubtreewithMaximumAverage.py   
+   [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) &nbsp; keep track of the level number as the index of the array       
    [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)&nbsp; DFS post-order traversal to find the maximum depth.    
    <img height="400" width="500" alt="104" src="https://user-images.githubusercontent.com/26280459/56094776-28a9c780-5ece-11e9-9c94-93fa5b65a728.PNG">    
-   [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) &nbsp genius way of  constructing tree (mind the return type)      
-   [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  &nbsp  same as 105   
+   [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) &nbsp; genius way of  constructing tree (mind the return type)      
+   [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  &nbsp;  same as 105 
+   [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) &nbsp; same as 102 but output reversely
    [112. Path Sum](https://leetcode.com/problems/path-sum/) &nbsp; pre-order traversal    
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) &nbsp;BFS/DFS all can solved this   
