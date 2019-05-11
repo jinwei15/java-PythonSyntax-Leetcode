@@ -1,10 +1,24 @@
 # Reason
-整理一下学习刷题的脑图，好无聊，刷题玩玩。
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://leetcode.com)
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/jinwei14/java-PythonSyntax-Leetcode/issues)
 
-# building table for revision: (Incompleted)
-Question + link + most intuitive thought about this question. You can find the answer under [LeetCode/src](https://github.com/jinwei14/java-PythonSyntax-Leetcode/tree/master/LeetCode/src)   
+好无聊，刷题玩玩。
 
-## Array
+- [x] Array [-->](#headArray)
+- [x] String [-->](#headString)
+- [x] HashTable/Counter [-->](#headHashTable)
+- [x] LinkedList [-->](#headLinkedList)
+- [ ] Stack [-->](#headStack)
+- [ ] Queue [-->](#headQueue)
+- [ ] Math [-->](#headMath)
+- [ ] DFS/BFS [-->](#headDFS)
+- [ ] Dynamic Programming [-->](#headDynamic)
+- [ ] Searching [-->](#headSearching)
+- [ ] Heap [-->](#headHeap)
+- [ ] Bash [-->](#headBash)
+- [ ] Bit [-->](#headBit)
+
+## <a name="headArray"></a>Array
    [35. Search Insert Position.](https://leetcode.com/problems/search-insert-position/)   
    [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) &nbsp;[-2,2,3,5]->1 wrong O(n^2) solution. O(n) is so hard.    
    [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  
@@ -23,7 +37,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) &nbsp; pool descripted delete X column to make it alway ascending.   
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html) &nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
 
-## String manipulation (addition, replace(deletion)):
+## <a name="headString"></a>String manipulation (addition, replace(deletion)):
    [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) &nbsp; classic palindrome number but used a werid amazing number reverse method.   
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) &nbsp; classic Palindrome number (two pointer/reversed)  
    [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
@@ -33,7 +47,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
    [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) &nbsp;two pointer sol, string is immutable. convert to list then join.   
 
-## HashTable/Counter:
+## <a name="headHashTable">HashTable/Counter:
    [number of substring with exact k distinct element](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI) amazon OA2  NumOfSubstringwithExactKDistinctCharacters.py   
    [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &nbsp; usnig hashMap but was shit. slicing windiw is better.   
    [169. Majority Element](https://leetcode.com/problems/majority-element/) &nbsp; most basic hashMap  
@@ -53,7 +67,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) &nbsp; a reverse version of alien dictionary. Given dictionary judge if it is vaild.    
    [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) &nbsp; very easy hashMap   
 
-## LinkedList:
+## <a name="headLinkedList">LinkedList:
    [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) &nbsp; classic linkedlist plus Math plus  
    [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) &nbsp; keep track a previous node and keep updating prev.next, also recurrsive<img height="400" width="500" alt="21" src="https://user-images.githubusercontent.com/26280459/56148273-d0dc9080-5fa1-11e9-854f-ed77c119e0e6.PNG">
 
@@ -68,7 +82,7 @@ Question + link + most intuitive thought about this question. You can find the a
    [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) &nbsp; 1.reverse and reverse back. 2.using stack    
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
-## Recursive:
+## <a name="headRecursive">Recursive:
 Things to know:
 1. The base case: this is the hardest to define. we need to figure out the boundury condition and return type
 2. the recursion rules: the return type should be the same as base case, some time we need to keep an eye on whether it is a pre-order, post-order or in-order traversal.
@@ -94,16 +108,16 @@ Things to know:
 
 
 
-## Stack:
+## <a name="headStack">Stack:
    [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy  
    [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
-## Queue:
+## <a name="headQueue">Queue:
    [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) &nbsp; using two stack to implement this   
    [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) &nbsp; Queue implementation dequeue python.   
 
-## Math
+## <a name="headMath">Math
    [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) &nbsp; math same as 171, base 26 num.   
    [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) &nbsp; ASCII num + math   
    [202. Happy Number](https://leetcode.com/problems/happy-number/) &nbsp;loop + hashMap check existance. easy.   
@@ -117,7 +131,7 @@ Things to know:
    [942. DI String Match](https://leetcode.com/problems/di-string-match/) &nbsp; Brilliant math problem   
    [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/)&nbsp; attention to notes. x^i + y^j < bound    
 
-## DFS/BFS:
+## <a name="headDFS">DFS/BFS:
    [SubtreewithMaximumAverage](https://yeqiuquan.blogspot.com/2017/03/lintcode-597-subtree-with-maximum.html)&nbsp; lintcode Amazon OA2 SubtreewithMaximumAverage.py   
    [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) &nbsp; keep track of the level number as the index of the array       
    [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)&nbsp; DFS post-order traversal to find the maximum depth.    
@@ -135,7 +149,7 @@ Things to know:
    [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) &nbsp; DFS, classic one   
    [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) &nbsp; easy DFS BFS using back tracking.    
 
-## Dynamic Programming:
+## <a name="headDynamic">Dynamic Programming:
    [MaximumMinimumPath](https://drive.google.com/drive/folders/1zfwa-4YmDQkF8B7QoYvo80lu3xqgkqPI)Amazon OA2 MaximumMinimumPath.py   
    [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)&nbsp; Brute used need to be rewrite.   
    [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)&nbsp; given arrry of num represent of height, maximum trapped water, Brute force-> DP-> stack.   
@@ -146,7 +160,7 @@ Things to know:
    [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)&nbsp; Fibonacci number    
    [674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)&nbsp; simple DB by store the previous result   
 
-## Search
+## <a name="headSearch">Search
    ```python
    def binarySearch(nums, target):
     """
@@ -189,13 +203,13 @@ Things to know:
    [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) &nbsp; nearly same as 35 however this time rightIndex could be outof the length and leftIndex is the next to the target.      
    
     
-## Min Max Heap
+## <a name="headHeap">Heap
    [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)&nbsp; this can literally done by sorting but MinMax heap is better (dont understand)   
    [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)&nbsp; minHeap with len(k) using heapq, pushpop()   
 
-## Bash
+## <a name="headBash">Bash
    [195. Tenth Line](https://leetcode.com/problems/tenth-line/) &nbsp; print 10th line of a .txt  
 
-## Bit  
+## <a name="headBit">Bit  
    [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) &nbsp; reverse bits and convert to integer.   
    [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)&nbsp; hamming weight   
