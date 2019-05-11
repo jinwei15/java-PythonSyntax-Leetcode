@@ -125,6 +125,7 @@ Things to know:
    [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) &nbsp; genius way of  constructing tree (mind the return type)      
    [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  &nbsp;  same as 105 
    [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) &nbsp; same as 102 but output reversely
+   [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) &nbsp; This question is nearly the same as 106. Construct Binary Tree from Inorder and Postorder Traversal
    [112. Path Sum](https://leetcode.com/problems/path-sum/) &nbsp; pre-order traversal    
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) &nbsp;BFS/DFS all can solved this   
