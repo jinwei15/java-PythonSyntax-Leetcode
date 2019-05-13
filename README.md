@@ -145,9 +145,11 @@ Things to know:
    [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) &nbsp; same as 102 but output reversely
    [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) &nbsp; This question is nearly the same as 106. Construct Binary Tree from Inorder and Postorder Traversal
    [112. Path Sum](https://leetcode.com/problems/path-sum/) &nbsp; pre-order traversal    
+   [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) &nbsp; Implement a next funtion for BST    
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) &nbsp;BFS/DFS all can solved this   
    [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &nbsp using standard dfs but you need to understand what substree is     
+   [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &nbsp; find the previous large node in BST    
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) &nbsp; DFS but using a new function everytime, classic!   
    [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) &nbsp; easy one recursion question is hard to read.    
    [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) &nbsp; DFS, classic one   
@@ -204,6 +206,7 @@ Things to know:
    [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) &nbsp; basic binary search in BST.    
    <img src="./images/700.png" alt="img" height = "159" width="468"/>      
    [702. Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) &nbsp; The standard solution is to use basic binary search from the given min 0 to max 10000. however we can find the approximate maxIndex by using a while and each time increase by 2^itr the find the mid index from hi/2 to hi this is amazing     
+   [701. Insert into a Binary Search Tree!!!!!](https://leetcode.com/problems/insert-into-a-binary-search-tree/) &nbsp; search in BST then insert!!!!!!        
    [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) &nbsp; nearly same as 35 however this time rightIndex could be outof the length and leftIndex is the next to the target.      
    
     

@@ -15,3 +15,16 @@ class Solution:
             else:
                 root = root.right
         return None
+
+# class Solution {
+#     public TreeNode searchBST(TreeNode root, int target) {
+#         if (root == null || root.val == target) {
+#             return root;
+#         }
+#         if (target < root.val) {
+#             return searchBST(root.left, target);
+#         }else{
+#             return searchBST(root.right, target);
+#         }
+#     }
+# }
