@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/MaximumDepthofN-aryTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,12 +330,12 @@
       <workItem from="1557759825279" duration="2346000" />
       <workItem from="1557840134336" duration="1152000" />
       <workItem from="1557850478350" duration="21000" />
-      <workItem from="1558099693489" duration="470000" />
+      <workItem from="1558099693489" duration="990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31740000" />
+    <option name="totallyTimeSpent" value="32260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,9 +348,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="291" y="34" width="1443" height="1166" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21984297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21984297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,7 +363,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.25706214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50106496" side_tool="true" visible="true" weight="0.16175072" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50106496" side_tool="true" visible="true" weight="0.16175072" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49840257" weight="0.32956687" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
