@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/N-aryTreePostorderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/N-aryTreeLevelOrderTraversal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="538">
-                <caret line="156" column="126" selection-start-line="156" selection-start-column="126" selection-end-line="156" selection-end-column="126" />
+              <first_editor relative-caret-position="488">
+                <caret line="154" column="133" selection-start-line="154" selection-start-column="133" selection-end-line="154" selection-end-column="133" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/N-aryTreeLevelOrderTraversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -32,11 +41,6 @@
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/UnivaluedBinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -157,6 +161,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/InsertintoaBinarySearchTree.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/N-aryTreePreorderTraversal.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/N-aryTreePostorderTraversal.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/N-aryTreeLevelOrderTraversal.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -323,12 +328,12 @@
       <workItem from="1557759825279" duration="2346000" />
       <workItem from="1557840134336" duration="1152000" />
       <workItem from="1557850478350" duration="21000" />
-      <workItem from="1558099693489" duration="228000" />
+      <workItem from="1558099693489" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31498000" />
+    <option name="totallyTimeSpent" value="31588000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -661,11 +666,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/N-aryTreeLevelOrderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="538">
-            <caret line="156" column="126" selection-start-line="156" selection-start-column="126" selection-end-line="156" selection-end-column="126" />
+          <first_editor relative-caret-position="488">
+            <caret line="154" column="133" selection-start-line="154" selection-start-column="133" selection-end-line="154" selection-end-column="133" />
           </first_editor>
           <second_editor />
         </state>
