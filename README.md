@@ -153,6 +153,7 @@ Things to know:
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) &nbsp; DFS but using a new function everytime, classic!   
    [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) &nbsp; easy one recursion question is hard to read.    
    [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) &nbsp; DFS, classic one   
+   [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) &nbsp; Preorder for N array tree same as 105    
    [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) &nbsp; easy DFS BFS using back tracking.    
 
 ## <a name="headDynamic">Dynamic Programming:
