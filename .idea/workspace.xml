@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/N-aryTreeLevelOrderTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/MaximumDepthofN-aryTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="488">
-                <caret line="154" column="133" selection-start-line="154" selection-start-column="133" selection-end-line="154" selection-end-column="133" />
+              <first_editor relative-caret-position="495">
+                <caret line="156" column="136" selection-start-line="156" selection-start-column="136" selection-end-line="156" selection-end-column="136" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/MaximumDepthofN-aryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -41,11 +50,6 @@
               <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/ValidateBinarySearchTree.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -162,6 +166,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/N-aryTreePreorderTraversal.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/N-aryTreePostorderTraversal.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/N-aryTreeLevelOrderTraversal.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/MaximumDepthofN-aryTree.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -328,12 +333,12 @@
       <workItem from="1557759825279" duration="2346000" />
       <workItem from="1557840134336" duration="1152000" />
       <workItem from="1557850478350" duration="21000" />
-      <workItem from="1558099693489" duration="318000" />
+      <workItem from="1558099693489" duration="470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31588000" />
+    <option name="totallyTimeSpent" value="31740000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,7 +353,7 @@
     <frame x="291" y="34" width="1443" height="1166" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17201999" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21984297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -673,11 +678,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/MaximumDepthofN-aryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="488">
-            <caret line="154" column="133" selection-start-line="154" selection-start-column="133" selection-end-line="154" selection-end-column="133" />
+          <first_editor relative-caret-position="495">
+            <caret line="156" column="136" selection-start-line="156" selection-start-column="136" selection-end-line="156" selection-end-column="136" />
           </first_editor>
           <second_editor />
         </state>
