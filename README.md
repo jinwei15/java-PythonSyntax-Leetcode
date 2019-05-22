@@ -62,6 +62,7 @@
    [246. Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) &nbsp;hashtable + two pointer easy   
    [266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) &nbsp; a word turn to palindrome after permu    
    [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) &nbsp; easy classic hashMap  
+   [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) &nbsp; very easy hashMap    
    [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) classic hashtable !   
    [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) &nbsp; classic slicing window problem !two hashtables + dictionary deletion  
    [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) &nbsp; easy hashtable classic bloomberg interview.   
