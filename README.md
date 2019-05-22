@@ -113,11 +113,16 @@ Things to know:
 
 
 ## <a name="headStack">Stack:
+   [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) &nbsp classic stack 
+   [394. Decode String](https://leetcode.com/problems/decode-string/) &nbsp; classic stack similar to 20       
    [682. Baseball Game](https://leetcode.com/problems/baseball-game/) &nbsp; classic stack problem easy  
    [716. Max Stack](https://leetcode.com/problems/max-stack/) &nbsp; tuple in stack similar to MinStack but adding popMax!   
+   [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) &nbsp !!!!!!!!!!!!!!!!!!!need a graph this is a complex stack problem    
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
 
 ## <a name="headQueue">Queue:
+   [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) &nbsp; bfs using Queue need a graph !!!!!!!!!!!!!!!!!!!!    
+   [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) &nbsp; a little bit tricky need a graph !!!!!!!!!!!!!!!          
    [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) &nbsp; using two stack to implement this   
    [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) &nbsp; Queue implementation dequeue python.   
 
