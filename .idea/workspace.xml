@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/DailyTemperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/DecodeString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/WallsandGates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -20,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="337">
-                <caret line="171" column="86" selection-start-line="171" selection-start-column="86" selection-end-line="171" selection-end-column="86" />
+              <first_editor relative-caret-position="365">
+                <caret line="41" column="129" selection-start-line="41" selection-start-column="129" selection-end-line="41" selection-end-column="129" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/SerializeandDeserializeN-aryTree.py">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+            <state relative-caret-position="225">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -64,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/LeetCode/src/DailyTemperatures.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -120,10 +118,10 @@
       <find>close</find>
       <find>closest</find>
       <find>270</find>
-      <find>two pointer</find>
       <find>167</find>
       <find>287</find>
       <find>val&quot;: 2</find>
+      <find>two pointer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,6 +168,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/DecodeString.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/WallsandGates.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/DailyTemperatures.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -337,12 +336,13 @@
       <workItem from="1557840134336" duration="1152000" />
       <workItem from="1557850478350" duration="21000" />
       <workItem from="1558099693489" duration="1040000" />
-      <workItem from="1558529500368" duration="914000" />
+      <workItem from="1558529500368" duration="1100000" />
+      <workItem from="1558532232719" duration="110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33224000" />
+    <option name="totallyTimeSpent" value="33520000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +357,7 @@
     <frame x="47" y="23" width="1842" height="1166" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10333333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.093888886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -405,13 +405,6 @@
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$FindtheDuplicateNumber.coverage" NAME="FindtheDuplicateNumber Coverage Results" MODIFIED="1557344784363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/ClosestBinarySearchTreeValue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="28" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/FindSmallestLetterGreaterThanTarget.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -654,6 +647,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/SerializeandDeserializeN-aryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/DecodeString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/MovingAveragefromDataStream.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/WallsandGates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/DailyTemperatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/SearchinaBinarySearchTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -682,42 +706,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/SerializeandDeserializeN-aryTree.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/DecodeString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/MovingAveragefromDataStream.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/DailyTemperatures.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/WallsandGates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="225">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="337">
-            <caret line="171" column="86" selection-start-line="171" selection-start-column="86" selection-end-line="171" selection-end-column="86" />
+          <first_editor relative-caret-position="365">
+            <caret line="41" column="129" selection-start-line="41" selection-start-column="129" selection-end-line="41" selection-end-column="129" />
           </first_editor>
           <second_editor />
         </state>

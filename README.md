@@ -39,6 +39,7 @@
    [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) &nbsp;2D array that all diagonal are the same    
    [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) &nbsp; two item basket, find the largest range in array. Slicing window classic   
    [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) &nbsp; pool descripted delete X column to make it alway ascending.   
+   [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) &nbsp; Two pointer easy but classic     
    [Two Sum - Closest to target ](https://yeqiuquan.blogspot.com/2017/04/lintcode-533-two-sum-closest-to-target.html) &nbsp;Lintcode533 Amazon OA2 TwoSumClosest.py        
 
 ## <a name="headString"></a>String manipulation (addition, replace(deletion)):
