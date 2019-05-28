@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="" />
+    <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="376">
-                <caret line="156" column="113" selection-start-line="156" selection-start-column="113" selection-end-line="156" selection-end-column="113" />
+              <first_editor relative-caret-position="458">
+                <caret line="77" column="202" selection-start-line="77" selection-start-column="202" selection-end-line="77" selection-end-column="202" />
               </first_editor>
               <second_editor />
             </state>
@@ -23,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/SubtreeofAnotherTree.py">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <state relative-caret-position="570">
+              <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -44,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -171,13 +175,14 @@
         <option value="$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/LoggerRateLimiter.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/SubtreeofAnotherTree.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="47" />
-    <option name="y" value="23" />
+    <option name="x" value="3" />
+    <option name="y" value="-1177" />
     <option name="width" value="1842" />
     <option name="height" value="1166" />
   </component>
@@ -186,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,6 +213,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,12 +344,15 @@
       <workItem from="1557850478350" duration="21000" />
       <workItem from="1558099693489" duration="1040000" />
       <workItem from="1558529500368" duration="1100000" />
-      <workItem from="1558532232719" duration="1069000" />
+      <workItem from="1558532232719" duration="1094000" />
+      <workItem from="1558622682478" duration="9000" />
+      <workItem from="1558622720240" duration="4000" />
+      <workItem from="1559056747079" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34479000" />
+    <option name="totallyTimeSpent" value="34788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,10 +364,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="23" width="1842" height="1166" extended-state="0" />
+    <frame x="3" y="-1177" width="1842" height="1166" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16222222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,7 +381,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.25706214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50106496" side_tool="true" visible="true" weight="0.16175072" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50106496" side_tool="true" visible="true" weight="0.2036156" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49840257" weight="0.32956687" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -407,13 +415,6 @@
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$FindtheDuplicateNumber.coverage" NAME="FindtheDuplicateNumber Coverage Results" MODIFIED="1557344784363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/VerifyinganAlienDictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/TwoSumII-Inputarrayissorted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -652,6 +653,27 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/src/MovingAveragefromDataStream.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/SubtreeofAnotherTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/LoggerRateLimiter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/WallsandGates.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -694,32 +716,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/SquaresofaSortedArray.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/LoggerRateLimiter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/SubtreeofAnotherTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+        <state relative-caret-position="570">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="376">
-            <caret line="156" column="113" selection-start-line="156" selection-start-column="113" selection-end-line="156" selection-end-column="113" />
+          <first_editor relative-caret-position="458">
+            <caret line="77" column="202" selection-start-line="77" selection-start-column="202" selection-end-line="77" selection-end-column="202" />
           </first_editor>
           <second_editor />
         </state>
