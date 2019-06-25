@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/URLify.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -26,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/URLify.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -177,20 +176,22 @@
         <option value="$PROJECT_DIR$/LeetCode/src/SubtreeofAnotherTree.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/LeetCode/src/URLify.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="-1177" />
-    <option name="width" value="1842" />
-    <option name="height" value="1166" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="170" />
+    <option name="width" value="1440" />
+    <option name="height" value="883" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,7 +214,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FindtheDuplicateNumber">
+  <component name="RunManager" selected="Python.URLify">
     <configuration name="ConstructQuadTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="java-PythonSyntax-Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,8 +310,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="URLify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="java-PythonSyntax-Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/src/URLify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.URLify" />
         <item itemvalue="Python.FindtheDuplicateNumber" />
         <item itemvalue="Python.SearchinaBinarySearchTree" />
         <item itemvalue="Python.ConstructQuadTree" />
@@ -347,12 +370,13 @@
       <workItem from="1558532232719" duration="1094000" />
       <workItem from="1558622682478" duration="9000" />
       <workItem from="1558622720240" duration="4000" />
-      <workItem from="1559056747079" duration="271000" />
+      <workItem from="1559056747079" duration="446000" />
+      <workItem from="1561452325935" duration="559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34788000" />
+    <option name="totallyTimeSpent" value="35522000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,15 +388,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="-1177" width="1842" height="1166" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14749734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946752" weight="0.32956687" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893504" weight="0.32956687" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840257" visible="true" weight="0.32956687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3992467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,7 +405,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.25706214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50106496" side_tool="true" visible="true" weight="0.2036156" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.32956687" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49840257" weight="0.32956687" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -412,16 +436,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$SearchinaBinarySearchTree.coverage" NAME="SearchinaBinarySearchTree Coverage Results" MODIFIED="1557141002368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$ConstructQuadTree.coverage" NAME="ConstructQuadTree Coverage Results" MODIFIED="1556974345372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
+    <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$URLify.coverage" NAME="URLify Coverage Results" MODIFIED="1561452921838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$FindtheDuplicateNumber.coverage" NAME="FindtheDuplicateNumber Coverage Results" MODIFIED="1557344784363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/TwoSumII-Inputarrayissorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/34.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -660,6 +678,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="458">
+            <caret line="77" column="202" selection-start-line="77" selection-start-column="202" selection-end-line="77" selection-end-column="202" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/LoggerRateLimiter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -716,20 +751,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/RemoveNthNodeFromEndofList.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/URLify.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="458">
-            <caret line="77" column="202" selection-start-line="77" selection-start-column="202" selection-end-line="77" selection-end-column="202" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
