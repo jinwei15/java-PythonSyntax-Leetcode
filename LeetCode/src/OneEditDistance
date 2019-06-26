@@ -24,21 +24,66 @@
 # Input: s = "1203", t = "1213"
 # Output: true
 # Explanation: We can replace '0' with '1' to get t.
-
 class Solution:
     def isOneEditDistance(self, s: str, t: str) -> bool:
-        if abs(len(t)-len(s))>=2: return False
-        counter = 0
-        letterDict = dict()
 
-        for l1 in s:
-            letterDict[l1] = letterDict.get(l1,0)+1
-        for l2 in t:
-            if letterDict.get(l2) == None or letterDict.get(l2) == 0:
-                letterDict[l2] = 1
-            else:
-                letterDict[l2] = letterDict.get(l2) - 1
+        if len(s) > len(t): return self.isOneEditDistance(t, s)
+
+        res = True
+        # this case only replacing can happen
+        if len(s) == len(t):
+            counter = 0
+            # counting the number of replacing
+            for i in range(len(s)):
+                if t[i] != s[i]: counter += 1
+            if counter > 1 or counter == 0:
+                res = False
+
+        # this case only inserting can happen
+        elif len(s) < len(t) and len(t) - len(s) == 1:
+            for i in range(len(s)):
+
+                if t[i] != s[i]:
+                    print(t[i + 1:], s[i:])
+                    if t[i + 1:] != s[i:]:
+                        print('haha')
+                        res = False
+                        break;
 
 
+        elif len(s) < len(t) and len(t) - len(s) > 1:
+            res = False
+        return res
 
-        return sum(letterDict.values()) <= 1
+bb = Solution()
+out = bb.isOneEditDistance("cab","ad")
+print(out)
+# class Solution:
+#     def isOneEditDistance(self, s: str, t: str) -> bool:
+#         if abs(len(t)-len(s))>=2: return False
+#         counter = 0
+#         letterDict = dict()
+#
+#         for l1 in s:
+#             letterDict[l1] = letterDict.get(l1,0)+1
+#         for l2 in t:
+#             if letterDict.get(l2) == None or letterDict.get(l2) == 0:
+#                 letterDict[l2] = 1
+#             else:
+#                 letterDict[l2] = letterDict.get(l2) - 1
+#
+#
+#
+#         return sum(letterDict.values()) <= 1
+
+for i in range(len('')):
+    print('ahha')
+
+
+print(len(""))
+
+t = "cab"
+s = "ad"
+
+if t[0+1:] != s[0:]:
+    print('haha')
