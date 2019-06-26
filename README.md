@@ -45,6 +45,7 @@
 ## <a name="headString"></a>String manipulation (addition, replace(deletion)):
    [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) &nbsp; classic palindrome number but used a werid amazing number reverse method.   
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) &nbsp; classic Palindrome number (two pointer/reversed)  
+   [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) break down case by case since there can only be one insert/delete/replace.    
    [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
    [520. Detect Capital](https://leetcode.com/problems/detect-capital/) &nbsp; substring    
