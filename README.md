@@ -44,12 +44,14 @@
 
 ## <a name="headString"></a>String manipulation (addition, replace(deletion)):
    [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) &nbsp; classic palindrome number but used a werid amazing number reverse method.   
+   [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) &nbsp; This question has lots of way to solve, I use brute force    
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) &nbsp; classic Palindrome number (two pointer/reversed)  
-   [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) break down case by case since there can only be one insert/delete/replace.    
+   [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) &nbsp; break down case by case since there can only be one insert/delete/replace.    
    [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
    [520. Detect Capital](https://leetcode.com/problems/detect-capital/) &nbsp; substring    
    [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) &nbsp; two pointer solution. s==s[::-1].   
+   [796. Rotate String](https://leetcode.com/problems/rotate-string/) &nbsp; easy using string concatenation      
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
    [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) &nbsp;two pointer sol, string is immutable. convert to list then join.   
 
