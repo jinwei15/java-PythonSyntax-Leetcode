@@ -23,10 +23,10 @@
 
 
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 class Solution:
     def deleteNode(self, node):
@@ -37,3 +37,20 @@ class Solution:
         node.val = node.next.val
         node.next = node.next.next
         
+
+class Solution2:
+    def deleteNod2(self, head:ListNode, nodeVal:int):
+        """
+        :type node: ListNode
+        :rtype: void Do not return anything, modify node in-place instead.
+        """
+        n = head
+        if n.val == nodeVal :
+            return head.next
+
+        while (n.next != None):
+            if n.next.val == nodeVal:
+                n.next = n.next.next
+                return head
+            n = n.next
+        return head
