@@ -89,6 +89,7 @@
    [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  
    [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) &nbsp;reverse(iteratively or recursively)  
    [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) &nbsp; same as 9/125 Palindrome  
+   [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)  &nbsp;  stupid question two line. make this general input head and the node value.     
    [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) &nbsp; 1.reverse and reverse back. 2.using stack    
    [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
