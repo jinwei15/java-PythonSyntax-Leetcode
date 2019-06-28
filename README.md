@@ -163,6 +163,7 @@ Things to know:
    [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)  
    [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) &nbsp;BFS/DFS all can solved this   
    [250. Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) &nbsp using standard dfs but you need to understand what substree is     
+   [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) &nbsp; return app path as '1->2->3'using pre-order passing two parameters. very tricky. Need revise     
    [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &nbsp; find the previous large node in BST    
    [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) &nbsp; DFS but using a new function everytime, classic!   
    [427. Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) &nbsp; easy one recursion question is hard to read.    

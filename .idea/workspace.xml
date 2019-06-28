@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,21 +21,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="487">
-                <caret line="54" column="109" selection-start-line="54" selection-start-column="109" selection-end-line="54" selection-end-column="109" />
+              <first_editor relative-caret-position="377">
+                <caret line="165" column="150" selection-start-line="165" selection-start-column="150" selection-end-line="165" selection-end-column="150" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -181,8 +185,8 @@
         <option value="$PROJECT_DIR$/LeetCode/src/FlipGame.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/ReadNCharactersGivenRead4.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/RepeatedStringMatch.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -209,12 +213,6 @@
               <item name="java-PythonSyntax-Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-PythonSyntax-Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-PythonSyntax-Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-PythonSyntax-Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -410,12 +408,12 @@
       <workItem from="1561546264196" duration="547000" />
       <workItem from="1561628292293" duration="1861000" />
       <workItem from="1561713098264" duration="2458000" />
-      <workItem from="1561735042550" duration="280000" />
+      <workItem from="1561735042550" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45158000" />
+    <option name="totallyTimeSpent" value="45259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -773,18 +771,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="487">
-            <caret line="54" column="109" selection-start-line="54" selection-start-column="109" selection-end-line="54" selection-end-column="109" />
+          <first_editor relative-caret-position="377">
+            <caret line="165" column="150" selection-start-line="165" selection-start-column="150" selection-end-line="165" selection-end-column="150" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
