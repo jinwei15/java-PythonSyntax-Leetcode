@@ -52,6 +52,7 @@
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
    [520. Detect Capital](https://leetcode.com/problems/detect-capital/) &nbsp; substring    
    [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) &nbsp; two pointer solution. s==s[::-1].   
+   [686. Repeated String Match](https://leetcode.com/problems/repeated-string-match/) &nbsp; need imporve        
    [796. Rotate String](https://leetcode.com/problems/rotate-string/) &nbsp; easy using string concatenation      
    [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  
    [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) &nbsp;two pointer sol, string is immutable. convert to list then join.   
