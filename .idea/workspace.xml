@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/FlipGame.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/queue.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/FlipGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -169,6 +177,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/MiddleoftheLinkedList.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/stack.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/queue.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/FlipGame.py" />
       </list>
     </option>
   </component>
@@ -394,12 +403,12 @@
       <workItem from="1561545985987" duration="23000" />
       <workItem from="1561546264196" duration="547000" />
       <workItem from="1561628292293" duration="1861000" />
-      <workItem from="1561713098264" duration="290000" />
+      <workItem from="1561713098264" duration="1293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42710000" />
+    <option name="totallyTimeSpent" value="43713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,13 +473,6 @@
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$FindtheDuplicateNumber.coverage" NAME="FindtheDuplicateNumber Coverage Results" MODIFIED="1557344784363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePostorderTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePreorderTraversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -770,7 +772,14 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/src/queue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/FlipGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="26" />
         </state>
       </provider>
     </entry>
