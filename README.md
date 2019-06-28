@@ -46,7 +46,7 @@
    [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) &nbsp; classic palindrome number but used a werid amazing number reverse method.   
    [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) &nbsp; This question has lots of way to solve, I use brute force    
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) &nbsp; classic Palindrome number (two pointer/reversed)  
-   [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &nbsp; Dont understand.
+   [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &nbsp; Dont understand.    
    [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) &nbsp; break down case by case since there can only be one insert/delete/replace.    
    [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
