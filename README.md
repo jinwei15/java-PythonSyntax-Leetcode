@@ -48,6 +48,7 @@
    [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) &nbsp; classic Palindrome number (two pointer/reversed)  
    [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &nbsp; Dont understand.    
    [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) &nbsp; break down case by case since there can only be one insert/delete/replace.    
+   [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) &nbsp; number to english word          
    [443. String Compression](https://leetcode.com/problems/string-compression/) &nbsp; easy,String    
    [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  
    [520. Detect Capital](https://leetcode.com/problems/detect-capital/) &nbsp; substring    

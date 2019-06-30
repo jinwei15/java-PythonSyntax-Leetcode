@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="" />
+    <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,21 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/SetMatrixZeroes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="26">
-                <caret line="165" column="112" selection-start-line="165" selection-start-column="112" selection-end-line="165" selection-end-column="112" />
+              <first_editor relative-caret-position="373">
+                <caret line="50" column="124" selection-start-line="50" selection-start-column="124" selection-end-line="50" selection-end-column="124" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,9 +25,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/IntegertoEnglishWords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-start-column="2" selection-end-line="17" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="600">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
@@ -134,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/SearchInsertPosition.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/FindKClosestElements.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/ClosestBinarySearchTreeValue.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/SearchinaSortedArrayofUnknownSize.py" />
@@ -184,11 +185,12 @@
         <option value="$PROJECT_DIR$/LeetCode/src/ReadNCharactersGivenRead4.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/RepeatedStringMatch.py" />
         <option value="$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py" />
+        <option value="$PROJECT_DIR$/LeetCode/src/IntegertoEnglishWords.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="324" />
     <option name="y" value="141" />
     <option name="width" value="1356" />
@@ -206,11 +208,6 @@
             <path>
               <item name="java-PythonSyntax-Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-PythonSyntax-Leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-PythonSyntax-Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-PythonSyntax-Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -407,11 +404,12 @@
       <workItem from="1561628292293" duration="1861000" />
       <workItem from="1561713098264" duration="2458000" />
       <workItem from="1561735042550" duration="836000" />
+      <workItem from="1561897588097" duration="105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45714000" />
+    <option name="totallyTimeSpent" value="45819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,9 +421,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="207" width="800" height="577" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1177" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4419525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11821086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -439,7 +438,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.25706214" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.5037274" side_tool="true" visible="true" weight="0.6904762" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.5037274" side_tool="true" visible="true" weight="0.30037665" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49840257" weight="0.32956687" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -475,13 +474,6 @@
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$FindtheDuplicateNumber.coverage" NAME="FindtheDuplicateNumber Coverage Results" MODIFIED="1557344784363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreeLevelOrderTraversalII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/ConstructBinaryTreefromPreorderandInorderTraversal.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -719,6 +711,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/RepeatedStringMatch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -768,18 +767,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/BinaryTreePaths.py">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/IntegertoEnglishWords.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="17" selection-end-column="114" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="26">
-            <caret line="165" column="112" selection-start-line="165" selection-start-column="112" selection-end-line="165" selection-end-column="112" />
+          <first_editor relative-caret-position="373">
+            <caret line="50" column="124" selection-start-line="50" selection-start-column="124" selection-end-line="50" selection-end-column="124" />
           </first_editor>
           <second_editor />
         </state>
