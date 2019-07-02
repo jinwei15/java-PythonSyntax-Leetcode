@@ -31,6 +31,7 @@
    [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) &nbsp; array deletion by element/index    
    [287. Find the Duplicate Number!](https://leetcode.com/problems/find-the-duplicate-number/) &nbsp; floyd circle algorithm !!!!!!!!!!      
    <img src="./images/287.jpeg" alt="img" height = "400" width="300"/>     
+   [289. Game of Life](https://leetcode.com/problems/game-of-life/) &nbsp; Deep copy of array.      
    [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) &nbsp; easy 2D array   
    [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) &nbsp;check which number is missing from 1 to n. brilliant sol by converting index num to neg.      
    [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/ )&nbsp; single scan easy    
