@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb636c07-474c-49a5-b643-7527dea0dd8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/MinimumWindowSubstring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/MinimumWindowSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/MinimumWindowSubstring.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/MinimumWindowSubstring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="47" />
+            <state relative-caret-position="486">
+              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -410,12 +410,12 @@
       <workItem from="1561713098264" duration="2458000" />
       <workItem from="1561735042550" duration="836000" />
       <workItem from="1561897588097" duration="1367000" />
-      <workItem from="1562075242336" duration="4157000" />
+      <workItem from="1562075242336" duration="5006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51238000" />
+    <option name="totallyTimeSpent" value="52087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,17 +469,12 @@
           <line>17</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/MinimumWindowSubstring.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$OneEditDistance.coverage" NAME="OneEditDistance Coverage Results" MODIFIED="1561543527792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
-    <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$MinimumWindowSubstring.coverage" NAME="MinimumWindowSubstring Coverage Results" MODIFIED="1562079752061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
+    <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$MinimumWindowSubstring.coverage" NAME="MinimumWindowSubstring Coverage Results" MODIFIED="1562080674178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$SearchinaBinarySearchTree.coverage" NAME="SearchinaBinarySearchTree Coverage Results" MODIFIED="1557141002368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$ConstructQuadTree.coverage" NAME="ConstructQuadTree Coverage Results" MODIFIED="1556974345372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
     <SUITE FILE_PATH="coverage/java_PythonSyntax_Leetcode$URLify.coverage" NAME="URLify Coverage Results" MODIFIED="1561470154966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/src" />
@@ -791,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/MinimumWindowSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="47" />
+        <state relative-caret-position="486">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
         </state>
       </provider>
     </entry>
