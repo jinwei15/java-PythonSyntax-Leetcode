@@ -3,6 +3,7 @@
 # # S = "ADOBECODEBANC"
 # # T = "ABC"
 # # Minimum window is "BANC".
+import collections
 class Solution:
     def minWindow(self, s, t):
         """
@@ -23,18 +24,19 @@ class Solution:
         # left and right pointer
         l, r = 0, 0
 
-# formed is used to keep track of how many unique characters in t are present in the current window in its desired frequency.
-# e.g. if t is "AABC" then the window must have two A's, one B and one C. Thus formed would be = 3 when all these conditions are met.
+        # formed is used to keep track of how many unique characters in t are present
+        # in the current window in its desired frequency.
+        # e.g. if t is "AABC" then the window must have two A's, one B and one C.
+        # Thus formed would be = 3 when all these conditions are met.
         formed = 0
 
         # Dictionary which keeps a count of all the unique characters in the current window.
-        window_counts = {}
+        window_counts = dict()
 
         # ans tuple of the form (window length, left, right)
         ans = float("inf"), None, None
 
         while r < len(s):
-
             # Add one character from the right to the window
             character = s[r]
             window_counts[character] = window_counts.get(character, 0) + 1
@@ -115,3 +117,23 @@ class Solution:
 
 
 
+
+
+
+bb = Solution()
+# s = 'ADOBECODEBANC'
+# t = 'ABC'
+
+s = 'ab'
+t = 'a'
+
+# s = 'a'
+# t = 'ab'
+
+# s = 'a'
+# t = 'a'
+
+# s = "bbaa"
+# t = "aba"
+res = bb.minWindow(s,t)
+print(res)
